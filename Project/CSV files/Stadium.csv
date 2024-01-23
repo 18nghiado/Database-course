@@ -1,0 +1,1821 @@
+Stadium ID,Team Name,Capacity,City,Confederation
+1,Besëlidhja,7000,Lezhë,UEFA
+2,Flamurtari Vlorë,8200,Vlorë,UEFA
+3,KF Laçi,5000,Laçi,UEFA
+4,Teuta,12040,Durrës,UEFA
+5,"KF Tirana, Dinamo, Partizani",9500,Tirana,UEFA
+6,Skënderbeu,7500,Korçë,UEFA
+7,JSK,20000,Tizi Ouzu,CAF
+8,MC Oran,40000,Oran,CAF
+9,MCEE,5000,El Eulma,CAF
+10,"MO Béjaïa, JSM Béjaïa",22000,Béjaïa,CAF
+11,ASO Chlef,17000,Chlef,CAF
+12,RC Kouba,10000,Algiers,CAF
+13,USM Alger,12000,Algiers,CAF
+14,RC Relizane,20000,Relizane,CAF
+15,Sport Lubango e Benfica,20000,Lubango,CAF
+16,Clube 1° de Maio,35000,Benguela,CAF
+17,FC de Cabinda,20000,Cabinda,CAF
+18,Colón,32000,Santa Fe,CONMEBOL
+19,Rosario Central,41654,Rosario,CONMEBOL
+20,River Plate,61321,Buenos Aires,CONMEBOL
+21,San Lorenzo,43494,Buenos Aires,CONMEBOL
+22,Club Ferro Caril Oeste,22797,Buenos Aires,CONMEBOL
+23,"Estudiantes, Gimnasia",53000,La Plata,CONMEBOL
+24,Arsenal ,16300,Sarandí,CONMEBOL
+25,AA Argentinos Juniors,24800,Buenos Aires,CONMEBOL
+26,Vélez Sarsfield,49540,Buenos Aires,CONMEBOL
+27,Independiente,48069,Avellaneda,CONMEBOL
+28,Newell's Old Boys,42000,Rosario,CONMEBOL
+29,CA Lanús,46519,Lanús,CONMEBOL
+30,Racing Club,42500,Avellaneda,CONMEBOL
+31,Huracán,48314,Buenos Aires,CONMEBOL
+32,Boca Juniors,49000,Buenos Aires,CONMEBOL
+33,Alashkert,6850,Yerevan,UEFA
+34,Banants,4860,Yerevan,UEFA
+35,"Ararat, Kilikia",54208,Yerevan,UEFA
+36,"Pyunik, Uliss",14403,Yerevan,UEFA
+37,Melbourne Victory,30050,Melbourne,AFC
+38,"Roosters, Waratahs, Sydney FC",45500,Paddington,AFC
+39,Mariners,20059,Gosford,AFC
+40,Gold Coast United,27400,Robina,AFC
+41,Adelaide United,17000,Hindmarsh,AFC
+42,"Jets, Knights",33000,Newcastle,AFC
+43,Melbourne Victory,56347,Melbourne,AFC
+44,"Eagles, Dockers, Western Force",60000,Perth,AFC
+45,WS Wanderers FC,20741,Sydney,AFC
+46,"Eagles, Dockers, Western Force",42922,Perth,AFC
+47,Brisbane Roar,53223,Brisbane,AFC
+48,Rapid,28345,Vienna,UEFA
+49,Admira Wacker,12000,Vienna,UEFA
+50,SCR,8500,Altach,UEFA
+51,Schwarz-Weiß,11112,Bregenz,UEFA
+52,SV Ried,7600,Ried,UEFA
+53,Kapfenberger SV,12000,Kapfenberg,UEFA
+54,SV Mattersburg,2500,Mattersburg,UEFA
+55,Austria,13500,Vienna,UEFA
+56,WSG Wattens,5200,Wattens,UEFA
+57,First Vienna,6000,Vienna,UEFA
+58,WAC,7300,Wolfsberg,UEFA
+59,Blau-Weiß,21005,Linz,UEFA
+60,"Grazer AK, SK Sturm",15400,Graz,UEFA
+61,Austria,1566,Salzburg,UEFA
+62,SKN St Pölten,8000,Sankt Pölten,UEFA
+63,SV Mattersburg,18000,Mattersburg,UEFA
+64,Salzburg,31895,Salzburg,UEFA
+65,"SC Ritzing, SC Eisenstadt",5000,Ritzing,UEFA
+66,SV Hall,2000,Hall in Tirol,UEFA
+67,DSV Leoben,6000,Leoben,UEFA
+68,SC Melk,2500,Melk,UEFA
+69,Wacker,16008,Innsbruck,UEFA
+70,"FC Pasching, LASK",7870,Pasching,UEFA
+71,SK Austria,31957,Klagenfurt am Wörthersee,UEFA
+72,MKT-Araz,8500,Imishli,UEFA
+73,"Inter, Olimpik, Standard",7535,Baku,UEFA
+74,"Neftchi, FK Baku",31100,Baku,UEFA
+75,"Brothers Union, Mohammedan SC, Abahani Ltd",36000,Dhaka,AFC
+76,BATE,13121,Borisov,UEFA
+77,Neman,8800,Grodno,UEFA
+78,Dynamo,10169,Brest,UEFA
+79,Dinamo,34000,Minsk,UEFA
+80,Dinamo,4500,Minsk,UEFA
+81,BATE,5402,Borisov,UEFA
+82,Torpedo-BelAZ,6542,Zhodino,UEFA
+83,Torpedo Minsk,5200,Minsk,UEFA
+84,"MTZ-RIPO, Zvezda-VA-BGU",17586,Minsk,UEFA
+85,KV Mechelen,16672,Mechelen,UEFA
+86,KV Oostende,8000,Ostenda,UEFA
+87,Royal FC,15975,Antwerp,UEFA
+88,Anderlecht,28063,Brussels,UEFA
+89,SC Lokeren,12000,Lokeren,UEFA
+90,ASV Geel,10524,Geel,UEFA
+91,KSV Diksmuide,2500,Dikmsuide,UEFA
+92,FC Brussels,15266,Sint-Jans-Molenbeek,UEFA
+93,Waasland-Beveren,13290,Beveren,UEFA
+94,Rupel Boom,9450,Boom,UEFA
+95,KAA Gent,19999,Gent,UEFA
+96,KVVC,2500,Koksijde,UEFA
+97,Lierse,15500,Lier,UEFA
+98,"Club Brugge, Cercle Brugge",29022,Brugge,UEFA
+99,KAS Eupen,8400,Eupen,UEFA
+100,OH Leuven,10020,Leuven,UEFA
+101,Berchem Sport,13607,Antwerp,UEFA
+102,Genk,23718,Genk,UEFA
+103,Beerschot Wilrijk,12771,Antwerp,UEFA
+104,Eendracht,6294,Aalst,UEFA
+105,Zulte,11020,Waregem,UEFA
+106,KSV Roeselare,9036,Roeselare,UEFA
+107,St-Truiden VV,12125,Sint-Truiden,UEFA
+108,RAEC Mons,12662,Mons,UEFA
+109,ROC de Charleroi,12164,Charleroi,UEFA
+110,Standard,30023,Liège,UEFA
+111,Charleroi,14000,Charleroi,UEFA
+112,UR La Louvière Centre,12500,La Louvière,UEFA
+113,Royal Mouscron-Péruwelz,10830,Mouscron,UEFA
+114,Royal Boussu,6000,Boussu,UEFA
+115,KVC Westerlo,10278,Westerlo,UEFA
+116,"The Strongest, Destroyers, Mariscal Braun",42000,La Paz,CONMEBOL
+117,Real,10000,Santa Cruz,CONMEBOL
+118,"Oriente Petrolero, Destroyers, Guabira, Blooming",38000,Santa Cruz de la Sierra,CONMEBOL
+119,FK Sarajevo,35630,Sarajevo,UEFA
+120,Zvijezda,5000,Grada?ac,UEFA
+121,?elik,18000,Zenica,UEFA
+122,Borac,9730,Banja Luka,UEFA
+123,Rudar,8000,Ugljevik,UEFA
+124,HNK Orašje,3000,Orašje,UEFA
+125,"Željezni?ar, Olimpik",16100,Sarajevo,UEFA
+126,Jedinstvo,7500,Biha?,UEFA
+127,Posušje,8000,Posušje,UEFA
+128,HŠK Zrinjski,25000,Mostar,UEFA
+129,Velež,5294,Mostar,UEFA
+130,Palmeiras,43713,São Paulo,CONMEBOL
+131,"SC Barueri, Grêmio",35000,Barueri,CONMEBOL
+132,Chapecoense,19325,Chapecó,CONMEBOL
+133,Corinthians,48234,São Paulo,CONMEBOL
+134,Paranaense,43981,Cúritiba,CONMEBOL
+135,"América FC, ABC FC",31375,Natal,CONMEBOL
+136,Gr?mio,60540,Pôrto Alegre,CONMEBOL
+137,"Mixto, Cuiabá EC",41390,Cuiabá,CONMEBOL
+138,AD São Caetano,14400,São Caetano do Sul,CONMEBOL
+139,Internacional,51800,Pôrto Alegre,CONMEBOL
+140,EC Pelotas,23336,Pelotas,CONMEBOL
+141,Guarani FC,29130,Campinas,CONMEBOL
+142,Botafogo,15000,Niterói,CONMEBOL
+143,"Fortaleza, Ceará, Ferroviário",63903,Fortaleza,CONMEBOL
+144,Coritiba FC,40310,Cúritiba,CONMEBOL
+145,Bahia,32157,Salvador da Bahia,CONMEBOL
+146,Santa Cruz,53289,Recife,CONMEBOL
+147,A.D. Portuguesa,21004,São Paulo,CONMEBOL
+148,FC São Paulo,67428,São Paulo,CONMEBOL
+149,Náutico Capibaribe,28000,Recife,CONMEBOL
+150,SC Recife,45500,Recife,CONMEBOL
+151,Democrata FC,18870,Sete Lagoas,CONMEBOL
+152,Rio Branco,21150,Cariacica,CONMEBOL
+153,Remo,45007,Belém,CONMEBOL
+154,Vitória,34842,Salvador da Bahia,CONMEBOL
+155,"Cruzeiro, Mineiro",62160,Belo Horizonte,CONMEBOL
+156,Ponte Preta,27946,Campinas,CONMEBOL
+157,Brasília FC,72888,Brasilia,CONMEBOL
+158,Botafogo,44661,Rio de Janeiro,CONMEBOL
+159,Gr?mio,51081,Pôrto Alegre,CONMEBOL
+160,"Fortaleza EC, Tiradentes, Ceará",20268,Fortaleza,CONMEBOL
+161,"Flamengo, Fluminense",21000,Volta Redonda,CONMEBOL
+162,Vasco,25000,Rio de Janeiro,CONMEBOL
+163,"Goiás, Vila Nova, Atlético Goianiense, Goiânia",50049,Goiânia,CONMEBOL
+164,Santos FC,15800,Santos,CONMEBOL
+165,"Amapá Clube, EC Macapá, Trem, Ypiranga Clube",13680,Macapá,CONMEBOL
+166,"América FC, Atlético Mineiro",23950,Belo Horizonte,CONMEBOL
+167,EC Bahia,50000,Salvador da Bahia,CONMEBOL
+168,Náutico Capibaribe,46154,São Lourenço da Mata,CONMEBOL
+169,"Flamengo, Botafogo, Fluminense, Vasco",78838,Rio de Janeiro,CONMEBOL
+170,"Jerudong, Gunners, NBT, Majra",3000,Bandar Seri Begawan,AFC
+171,DPMM FC,30000,Bandar Seri Begawan,AFC
+172,Ludogorets,9000,Razgrad,UEFA
+173,Akademik,10000,Sofia,UEFA
+174,Czernomorec,22000,Burgas,UEFA
+175,CSKA,22015,Sofia,UEFA
+176,Marek,16050,Dupnitsa,UEFA
+177,Levski,29200,Sofia,UEFA
+178,Botev,21000,Plovdiv,UEFA
+179,Pirin,7500,Blagoevgrad,UEFA
+180,Neftochimic,18339,Burgas,UEFA
+181,Lokomotiv,12000,Plovdiv,UEFA
+182,Lokomotiv,16000,Sofia,UEFA
+183,Litex,7050,Lovech,UEFA
+184,Slavija,18000,Sofia,UEFA
+185,Spartak,12000,Varna,UEFA
+186,Manaw Mayay,40000,Yangon,AFC
+187,Yadanarbon,30589,Mandalay,AFC
+188,Rakhapura United,50000,Yangon,AFC
+189,"Prince Louis, Vital'O",22000,Bujumbura,CAF
+190,"Druk Pol, Druk Star, Druk United, Thimpu City",15000,Thimphu,AFC
+191,"Whitecaps, Lions",52465,Vancouver,CONCACAF
+192,Toronto FC,30991,Toronto,CONCACAF
+193,Eskimos,56302,Edmonton,CONCACAF
+194,Blue Bombers,33422,Winnipeg,CONCACAF
+195,Serbian White Eagles,9600,Toronto,CONCACAF
+196,"Stampeders, Dinos",35650,Calgary,CONCACAF
+197,Roughriders,33000,Regina,CONCACAF
+198,Alouettes,66308,Montreal,CONCACAF
+199,Alouettes,25012,Montreal,CONCACAF
+200,Argonauts,54000,Toronto,CONCACAF
+201,Impact,20801,Montreal,CONCACAF
+202,"Redblacks, Fury",24000,Ottawa,CONCACAF
+203,Tiger-Cats,24000,Hamilton,CONCACAF
+204,Audax Italiano,12000,La Florida,CONMEBOL
+205,CD Huachipato,10500,Talcahuano,CONMEBOL
+206,San Marcos,9746,Arica,CONMEBOL
+207,O’Higgins,14087,Rancagua,CONMEBOL
+208,Wanderers,21113,Valparaiso,CONMEBOL
+209,Unido,18750,Coquimbo,CONMEBOL
+210,CD Temuco,18125,Temuco,CONMEBOL
+211,Palestino,12000,Santiago,CONMEBOL
+212,Curicó Unido,8000,Curicó,CONMEBOL
+213,Deportes,18243,La Serena,CONMEBOL
+214,San Luis,7680,Quillota,CONMEBOL
+215,Deportes Copiapó,8000,Copiapó,CONMEBOL
+216,Colo Colo,47347,Santiago,CONMEBOL
+217,"Universidad, Concepción, Fernández Vial",30448,Concepción,CONMEBOL
+218,Universidad de Chile,48745,Santiago,CONMEBOL
+219,Ñublense,12000,Chillán,CONMEBOL
+220,CD Antofagasta,21178,Antofagasta,CONMEBOL
+221,CD Puerto Montt,10000,Puerto Montt,CONMEBOL
+222,Universidad Católica,12000,Santiago,CONMEBOL
+223,Unión Espa?ola,25000,Santiago,CONMEBOL
+224,Everton (Brazil),23423,Viña del Mar,CONMEBOL
+225,CD Cobreloa,12346,Calama,CONMEBOL
+226,Aerbin,61000,Dalian,AFC
+227,Jiufang,60000,Hefei,AFC
+228,Shenua,33060,Shanghai,AFC
+229,Guangdong FC,12000,Guangzhou,AFC
+230,Sainty,61443,Nanjing,AFC
+231,Shide,55843,Dalian,AFC
+232,Luneng Taishan,43700,Jinan,AFC
+233,SIPG FC,56842,Shanghai,AFC
+234,Zhejiang Yiteng,40000,Shaoxing,AFC
+235,Teda,36390,Tianjin,AFC
+236,Evergrande,58500,Guangzhou,AFC
+237,Hyundai,66161,Beijing,AFC
+238,Zall,52672,Wuhan,AFC
+239,Zobon,20000,Shanghai,AFC
+240,Guangzhou R&F,20000,Guangzhou,AFC
+241,"Atlético, Independiente",40043,Medellín,CONMEBOL
+242,Deportivo,42901,Cúcuta,CONMEBOL
+243,Deportivo Pereira,38500,Pereira,CONMEBOL
+244,Real,14000,Cartagena,CONMEBOL
+245,"Junior, Uniautónoma",49612,Baranquilla,CONMEBOL
+246,"Santa Fe, Millonarios",36343,Bogotá,CONMEBOL
+247,Once Caldas,32000,Manizales,CONMEBOL
+248,"América, Deportivo, Depor",33130,Cali,CONMEBOL
+249,LD Alajuelense,17895,Alajuela,CONCACAF
+250,Puntarenas FC,4105,Puntarenas,CONCACAF
+251,Deportivo Saprissa,23112,San José,CONCACAF
+252,"Istra 1961, Istra Pula",8923,Pula,UEFA
+253,NK Karlovac,12000,Karlovac,UEFA
+254,Cibalia,10000,Vinkovci,UEFA
+255,NK Imotski,2766,Imotski,UEFA
+256,Slaven,3134,Koprivnica,UEFA
+257,NK Osjiek,18856,Osijek,UEFA
+258,NK Dugopolje,5200,Rijeka,UEFA
+259,Inter,4528,Zapreši?,UEFA
+260,Kamen Ingrad,7095,Velika,UEFA
+261,"NK Zagreb, Lokomotiva",8850,Zagreb,UEFA
+262,NK Lu?ko,1800,Zagreb,UEFA
+263,Dinamo,38168,Zagreb,UEFA
+264,NK Rijeka,10275,Rijeka,UEFA
+265,Varteks,9099,Varaždin,UEFA
+266,Hajduk,34448,Split,UEFA
+267,HNK Gorica,8000,Velika Gorica,UEFA
+268,NK Rijeka,8279,Rijeka,UEFA
+269,Me?imurje,8000,?akovec,UEFA
+270,NK Zadar,5860,Zadar,UEFA
+271,Hrvatski dragovoljac,4500,Zagreb,UEFA
+272,Šibenik,8500,Šibenik,UEFA
+273,Mosor,3000,Žrnovnica,UEFA
+274,Néa Salamís,4000,Larnaca,UEFA
+275,Anorthosis,9319,Larnaca,UEFA
+276,"Ethnikos, Digenis",16440,Nicosia,UEFA
+277,"APOEL, Omonia, Olympiakos",22859,Nicosia,UEFA
+278,Pafos FC,9394,Paphos,UEFA
+279,Enosis Neon Paralimni,5800,Paralimni,UEFA
+280,"Aris, AEL, Apollon",13261,Limassol,UEFA
+281,"AEK, Alki",13032,Larnaca,UEFA
+282,Sigma,12566,Olomouc,UEFA
+283,FK Jablonec,6280,Jablonec nad Nisou,UEFA
+284,Bohemians 1905,5000,Prague,UEFA
+285,Viktoria,11700,Pilzno,UEFA
+286,Slavia,21000,Prague,UEFA
+287,Sparta,18944,Prague,UEFA
+288,Dukla,4560,Prague,UEFA
+289,FC Fastav Zlín,6375,Zlín,UEFA
+290,Zbrojovka,10785,Brno,UEFA
+291,MFK Karviná,4833,Karvina,UEFA
+292,FC Slovan Liberec,7000,Liberec,UEFA
+293,FK Mladá Boleslav,5000,Mladá Boleslav,UEFA
+294,1. SC Znojmo,5000,Znojmo,UEFA
+295,FK P?íbram,9100,P?íbram,UEFA
+296,FK Teplice,18221,Teplice,UEFA
+297,FK Pardubice,3000,Pardubice,UEFA
+298,HFK Olomouc,2900,Olomouc,UEFA
+299,Banik,5000,Sokolov,UEFA
+300,MFK Haví?ov,7500,Havirov,UEFA
+301,FK Drnovice,6400,Drnovice,UEFA
+302,SK Kladno,4000,Kladno,UEFA
+303,Siad,7500,Most,UEFA
+304,"Olymp, Markéta",17500,Prague,UEFA
+305,Slovácko,8121,Uherské Hradišt?,UEFA
+306,Dynamo,6746,Czeskie Budziejowice,UEFA
+307,FC Chomutov,4800,Chomutov,UEFA
+308,FC Slovan Liberec,9900,Liberec,UEFA
+309,Vyso?ina,4075,Jihlava,UEFA
+310,Viktoria Žižkov,5600,Prague,UEFA
+311,"MFK Vítkovice, Baník Ostrava",15000,Ostrava,UEFA
+312,FC Hradec Králové,7100,Hradec Králové,UEFA
+313,AaB,13800,Aalborg,UEFA
+314,Randers FC,10300,Randers,UEFA
+315,Esbjerg FB,18000,Esbjerg,UEFA
+316,Brøndby IF,31400,Brøndby,UEFA
+317,AC Horsens,10400,Horsens,UEFA
+318,AGF Århus,20220,Århus,UEFA
+319,Hobro IK,10700,Hobro,UEFA
+320,OB,15761,Odense,UEFA
+321,Akademisk,12000,Søborg,UEFA
+322,FC Helsingør,5500,Helsingør,UEFA
+323,Silkeborg IF,10000,Silkeborg,UEFA
+324,Lyngby BK,9000,Lyngby,UEFA
+325,Midtjylland,11535,Herning,UEFA
+326,Næstved BK,10000,Næstved,UEFA
+327,Nordsj?lland,10100,Farum,UEFA
+328,Slagelse BK,10000,Slagelse,UEFA
+329,Fremad Amager,7200,Kopenhagen,UEFA
+330,Sønderjysk,10000,Haderslev,UEFA
+331,FC København,38009,Kopenhagen,UEFA
+332,Frem,12000,Kopenhagen,UEFA
+333,Emelec,40059,Guayaquil,CONMEBOL
+334,Barcelona,59283,Guayaquil,CONMEBOL
+335,"El Nacional, Deportivo Quito",39816,Quito,CONMEBOL
+336,LDU Quito,41596,Quito,CONMEBOL
+337,"Zamalek, Al-Ahly",74100,Cairo,CAF
+338,Sawahel,22000,Alexandria,CAF
+339,Al-Jaish,28500,Cairo,CAF
+340,Al-Ahly,25000,Cairo,CAF
+341,Al-Masry,17988,Port Said,CAF
+342,Peterborough Utd,14319,Peterborough,UEFA
+343,"Chaltenham Town, Gloucester City",7066,Chaltenham,UEFA
+344,Cambridge United,9617,Cambridge,UEFA
+345,Man City,7000,Manchester,UEFA
+346,Wycombe Wanderers,10284,Wycombe,UEFA
+347,Harriers,6238,Kidderminster,UEFA
+348,Crewe Alexandra,10153,Crewe,UEFA
+349,Brighton,30666,Brighton & Hove,UEFA
+350,Liverpool,53394,Liverpool,UEFA
+351,Bristol City,27699,Bristol,UEFA
+352,Walsall FC,11300,Walsall,UEFA
+353,Stoke City,30089,Stoke-on-Trent,UEFA
+354,Blackpool FC,16220,Blackpool,UEFA
+355,Grimsby Town,9052,Grimsby,UEFA
+356,West Ham,35345,London,UEFA
+357,Athletic,10638,Oldham,UEFA
+358,Sheffield United,32702,Sheffield,UEFA
+359,Rovers,11917,Bristol,UEFA
+360,FC United,4400,Manchester,UEFA
+361,United,16980,Carlisle,UEFA
+362,Norwich City,27033,Norwich,UEFA
+363,Crawley Town,6134,Crawley,UEFA
+364,Nottingham Forest,30445,Nottingham,UEFA
+365,Colchester United,10084,Colchester,UEFA
+366,Swindon Town FC,15728,Swindon,UEFA
+367,Fulham,25700,London,UEFA
+368,Matlock Town,2757,Matlock,UEFA
+369,Preston,23404,Preston,UEFA
+370,Wigan,25138,Wigan,UEFA
+371,Leeds United,39460,Leeds,UEFA
+372,Arsenal,59867,London,UEFA
+373,Man City,55017,Manchester,UEFA
+374,Hyde FC,4073,Hyde,UEFA
+375,Blackburn Rovers,31154,Blackburn,UEFA
+376,Portsmouth,20821,Portsmouth,UEFA
+377,Bury FC,11840,Bury,UEFA
+378,Scunthorpe United,9088,Scunthorpe,UEFA
+379,Morecambe FC,6476,Morecambe,UEFA
+380,Everton,39595,Liverpool,UEFA
+381,Brentford FC,12300,London,UEFA
+382,Fleetwood Town,5094,Fleetwood,UEFA
+383,Sheffield Wednesday,39812,Sheffield,UEFA
+384,Argyle,16388,Plymouth,UEFA
+385,Yeovil Town,9665,Yeovil,UEFA
+386,Huddersfield ,24169,Huddersfield,UEFA
+387,Oxford United,12500,Oxford,UEFA
+388,Hull City,24983,Hull,UEFA
+389,Rovers,15231,Doncaster,UEFA
+390,Luton Town,10226,Luton,UEFA
+391,Leicester ,32273,Leicester,UEFA
+392,"Kingstonian, Wimbledon",4850,London,UEFA
+393,QPR,18000,London,UEFA
+394,West Ham,60000,London,UEFA
+395,Bolton Wanderers,28723,Bolton,UEFA
+396,Reading,24161,Reading,UEFA
+397,Leyton Orient,9271,London,UEFA
+398,Notts County,20229,Nottingham,UEFA
+399,Southport FC,6008,Southport,UEFA
+400,AFC Fylde,6000,Medlar with Wesham,UEFA
+401,Wolves,32057,Wolverhampton,UEFA
+402,Shrewsbury Town,9875,Shrewsbury,UEFA
+403,Salford City,3339,Salford,UEFA
+404,Macclesfield Town,6355,Macclesfield,UEFA
+405,Rotherham United FC,12021,Rotherham,UEFA
+406,Barnsley FC,23009,Barnsley,UEFA
+407,Man United,74994,Manchester,UEFA
+408,Mansfield Town,9186,Mansfield,UEFA
+409,Ebbsfleet United,5011,Northfleet,UEFA
+410,Burton Albion,6912,Burton upon Trent,UEFA
+411,Torquay United,6500,Torquay,UEFA
+412,Ipswich Town,30311,Ipswich,UEFA
+413,Tranmere,16587,Birkenhead,UEFA
+414,Derby,33597,Derby,UEFA
+415,Gillingham FC,11582,Gillingham,UEFA
+416,Dartford FC,4100,Dartford,UEFA
+417,Chesterfield FC,10379,Chesterfield,UEFA
+418,Coventry City,32609,Coventry,UEFA
+419,Middlesbrough,33746,Middlesbrough,UEFA
+420,Southend United,12392,Southend-on-Sea,UEFA
+421,Hallam FC,700,Sheffield,UEFA
+422,Crystal Palace,25456,London,UEFA
+423,Lincoln City,10127,Lincoln,UEFA
+424,Grantham Town,7500,Grantham,UEFA
+425,Rochdale AFC,10249,Rochdale,UEFA
+426,Exeter City,8541,Exeter,UEFA
+427,Birmingham City,30009,Birmingham,UEFA
+428,Newcastle,52354,Newcastle,UEFA
+429,Southampton,32384,Southampton,UEFA
+430,Dons,30700,Milton Keynes,UEFA
+431,Sunderland,48707,Sunderland,UEFA
+432,Chelsea,41631,London,UEFA
+433,Chester FC,5376,Chester,UEFA
+434,Curzon Ashton,4000,Ashton-under-Lyne,UEFA
+435,Millwall,20146,London,UEFA
+436,Lewes FC,3000,Lewes,UEFA
+437,WBA,26688,West Bromwich,UEFA
+438,Barnet FC,6205,London,UEFA
+439,Forest Green Rovers,5032,Nailsworth,UEFA
+440,Northampton Town,7653,Northampton,UEFA
+441,Charlton Athletic,27111,London,UEFA
+442,St. Helens RFC,17646,St Helens,UEFA
+443,Burnley,21944,Burnley,UEFA
+444,Port Vale,19052,Stoke-on-Trent,UEFA
+445,Bradford City,25100,Bradford,UEFA
+446,Watford ,21000,Watford,UEFA
+447,Hartlepool United,7856,Hartlepool,UEFA
+448,Dagenham & Redbridge,6078,London,UEFA
+449,Aston Villa,42682,Birmingham,UEFA
+450,Bournemouth,11360,Bournemouth,UEFA
+451,Tottenham,90652,London,UEFA
+452,Stanley,5057,Accrington,UEFA
+453,Tottenham,32000,London,UEFA
+454,"Atlético Malabo, Atlético Semu, Deportivo Unidad,",15250,Malabo,CAF
+455,"Red Sea, Adulis, Hintsa, Edaga Hamus",20000,Asmara,CAF
+456,FC Flora,15000,Tallinn,UEFA
+457,Levadia,4700,Tallinn,UEFA
+458,Tallinna Kalev,11500,Tallinn,UEFA
+459,FC Valga,2500,Valga,UEFA
+460,EB/Streymur,500,Eiði,UEFA
+461,ÍFF,3000,Fuglafjørður,UEFA
+462,"B36, BH",5000,Tórshavn,UEFA
+463,B68,1200,Toftir,UEFA
+464,Skála IF,1000,Skala,UEFA
+465,AB,2000,Argir,UEFA
+466,B68,6000,Toftir,UEFA
+467,KÍ Klaksvík,1500,Klaksvík,UEFA
+468,FC Lahti,14465,Lahti,UEFA
+469,PK-35 Vantaa,4700,Vantaa,UEFA
+470,FC Ilves,16820,Tampere,UEFA
+471,HJK,10770,Helsinki,UEFA
+472,"Inter, TPS",9400,Turku,UEFA
+473,OGC Nice,36178,Nice,UEFA
+474,Lyon,59286,Lyon,UEFA
+475,Bordeaux,42115,Bordeaux,UEFA
+476,UC Le Mans,25064,Le Mans,UEFA
+477,Marseille,67394,Marseille,UEFA
+478,PSG,47929,Paris,UEFA
+479,Stade Rennais,29778,Rennes,UEFA
+480,SC Bastia,17000,Furiani,UEFA
+481,FC Sochaux,20005,Montbéliard,UEFA
+482,Stade Reims,21684,Reims,UEFA
+483,Lens,38223,Lens,UEFA
+484,Amiens SC,12097,Amiens,UEFA
+485,SC Schiltigheim,2500,Schiltigheim,UEFA
+486,Auxerre,18541,Auxerre,UEFA
+487,ES Troyes,18200,Troyes,UEFA
+488,Calais RUFC,12432,Calais,UEFA
+489,FC Mulhouse,11303,Mulhouse,UEFA
+490,Nantes,37473,Nantes,UEFA
+491,US Boulogne,15034,Boulogne-sur-Mer,UEFA
+492,ASB,18555,Béziers,UEFA
+493,Strasbourg,26500,Strasburg,UEFA
+494,Montpellier,32939,Montpellier,UEFA
+495,En Avant,18197,Guingamp,UEFA
+496,Grenoble Foot,20068,Grenoble,UEFA
+497,Nimes Olympique,18482,Nîmes,UEFA
+498,Valenciennes FC,25172,Valenciennes,UEFA
+499,FC Lorient,18500,Lorient,UEFA
+500,OGC Nice,17415,Nice,UEFA
+501,Stade Lavallois,18607,Laval,UEFA
+502,Stade brestois 29,15305,Brest,UEFA
+503,AC Ajaccio,10500,Ajaccio,UEFA
+504,Clermont Foot,10800,Clermont-Ferrand,UEFA
+505,Dijon FCO,16288,Dijon,UEFA
+506,Saint-Étienne,41965,Saint-Étienne,UEFA
+507,Stade Français,20000,Paris,UEFA
+508,OSC Lille,18185,Lille,UEFA
+509,Sedan,23189,Sedan,UEFA
+510,Monaco,18523,Monaco,UEFA
+511,AS Nancy,20087,Nancy,UEFA
+512,Nantes,1880,Nantes,UEFA
+513,USL Dunkerque,4200,Dunkerque,UEFA
+514,SM Caen,20300,Caen,UEFA
+515,Valenciennes FC,16547,Valenciennes,UEFA
+516,Le Havre AC,25178,Le Havre,UEFA
+517,AS Cannes,10000,Cannes,UEFA
+518,OSC Lille,50157,Lille,UEFA
+519,Chamois Niortais,11352,Niort,UEFA
+520,Metz,26671,Metz,UEFA
+521,Etoile Naborienne,3000,Saint-Avold,UEFA
+522,Paris FC,19141,Paris,UEFA
+523,Montpellier Hérault Rugby,14700,Montpellier,UEFA
+524,Toulouse,33300,Toulouse,UEFA
+525,Racing 92,32000,Paris,UEFA
+526,FC Franceville,22000,Franceville,CAF
+527,"Dinamo, FC Tbilisi",54549,Tbilisi,UEFA
+528,"Lokomotivi, Spartaki",27223,Tbilisi,UEFA
+529,Torpedo,12000,Kutaisi,UEFA
+530,FC Chiatura,11650,Chiatura,UEFA
+531,"Sachsen, Chemie",10500,Leipzig,UEFA
+532,Bayern,75024,Munich,UEFA
+533,Union,22012,Berlin,UEFA
+534,Ingolstadt 04,15445,Ingolstadt,UEFA
+535,Hessen Kassel,18800,Kassel,UEFA
+536,Bayer,30210,Leverkusen,UEFA
+537,SC Paderborn,15000,Paderborn,UEFA
+538,Borussia,54010,Moenchengladbach,UEFA
+539,Wehen,12566,Wiesbaden,UEFA
+540,FSV Mainz,18000,Moguncja,UEFA
+541,Waldhof,27000,Mannhiem,UEFA
+542,Eintracht Frankfurt,51500,Frankfurt nad Menem,UEFA
+543,SSV Jahn,15224,Regensburg,UEFA
+544,Hoffenheim,6350,Sinsheim,UEFA
+545,Hansa Rostock,29000,Rostock,UEFA
+546,SSV Ulm,19500,Ulm,UEFA
+547,Eintracht,23325,Braunschweig,UEFA
+548,Borussia,23400,Neunkirchen,UEFA
+549,Hallescher FC,15000,Halle,UEFA
+550,FC Carl Zeiss Jena,12630,Jena,UEFA
+551,FC Erzgebirge,15690,Aue,UEFA
+552,Würzburger Kickers,14500,Würzburg,UEFA
+553,FC Heilbronn,17284,Heilbronn,UEFA
+554,FSV,12500,Frankfurt nad Menem,UEFA
+555,1. FC Köln II,5457,Cologne,UEFA
+556,VfV 06,8000,Hildesheim,UEFA
+557,Kaiserslautern,49780,Kaiserslautern,UEFA
+558,Stuttgarter Kickers,11408,Stuttgart,UEFA
+559,Borussia,10000,Moenchengladbach,UEFA
+560,KFC Uerdingen,34500,Krefeld,UEFA
+561,TSV 1860,15000,Munich,UEFA
+562,SpVgg Bayreuth,21500,Bayreuth,UEFA
+563,SV Sandhausen,12100,Sandhausen,UEFA
+564,Hanover 96,49951,Hanover,UEFA
+565,SC Paderborn 07,12000,Paderborn,UEFA
+566,Holstein Kiel,10200,Kiel,UEFA
+567,Göttingen 05,17000,Göttingen,UEFA
+568,Sportfreunde Siegen,18500,Siegen,UEFA
+569,VfL Lübeck,17869,Lübeck,UEFA
+570,Wattenscheid 09,16233,Bochum,UEFA
+571,SC Herford,18400,Herford,UEFA
+572,1. FC Saarbrücken,35303,Saarbrücken,UEFA
+573,Nürnberg,48553,Nuremberg,UEFA
+574,Magdeburg,25910,Magdeburg,UEFA
+575,SG Sonnenhof,10001,Aspach,UEFA
+576,Stuttgart,60441,Stuttgart,UEFA
+577,SV Darmstadt,17468,Darmstadt,UEFA
+578,Fortuna Düsseldorf,54600,Düsseldorf,UEFA
+579,St. Pauli,29546,Hamburg,UEFA
+580,Hertha,74475,Berlin,UEFA
+581,FSV Mainz,34034,Moguncja,UEFA
+582,VfL Osnabrück,16667,Osnabrück,UEFA
+583,VfR Aalen,14500,Aalen,UEFA
+584,Preußen,15050,Münster,UEFA
+585,RB Leipzig,44345,Leipzig,UEFA
+586,VfR Mannheim,8000,Mannhiem,UEFA
+587,Köln,50374,Cologne,UEFA
+588,FC Augsburg,32354,Augsburg,UEFA
+589,RSV,20000,Moenchengladbach,UEFA
+590,Dynamo,32066,Dresden,UEFA
+591,MSV Duisburg,31500,Duisburg,UEFA
+592,TSV Crailsheim,5500,Crailsheim,UEFA
+593,Arminia Bielefeld,28008,Bielefeld,UEFA
+594,SC Freiburg,25000,Freiburg,UEFA
+595,Waldhof,15200,Mannhiem,UEFA
+596,Borussia,81359,Dortmund,UEFA
+597,Kickers Offenbach,20600,Offenbach am Main,UEFA
+598,Viktoria,10000,Cologne,UEFA
+599,SpVgg Greuther Fürth,18000,Fürth,UEFA
+600,WSV,23067,Wuppertal,UEFA
+601,Chemnitzer FC,15479,Chemnitz,UEFA
+602,Energie Cottbus,22528,Chociebu?,UEFA
+603,Rot-Weiss,20650,Essen,UEFA
+604,Rot-Weiß Oberhausen,21318,Oberhausen,UEFA
+605,TuS Koblenz,15000,Koblenz,UEFA
+606,Borussia II,9999,Dortmund,UEFA
+607,FSV Zwickau,10134,Zwickau,UEFA
+608,Rot-Weiß,18559,Erfurt,UEFA
+609,Fortuna,14944,Cologne,UEFA
+610,Alemannia,32900,Aachen,UEFA
+611,"FSV Gütersloh, FSC Rheda",3562,Rheda-Wiedenbrück,UEFA
+612,Schalke,62271,Gelsenkirchen,UEFA
+613,Wolfsburg,17600,Wolfsburg,UEFA
+614,1. FC Heidenheim,15000,Heidenheim,UEFA
+615,HSV,57274,Hamburg,UEFA
+616,Wolfsburg,30122,Wolfsburg,UEFA
+617,VFL Bochum,32645,Bochum,UEFA
+618,FC Homburg,16488,Homburg,UEFA
+619,DC Weismain,18000,Weismain,UEFA
+620,SSV 04,5000,Siegburg,UEFA
+621,Werder Bremen,42354,Bremen,UEFA
+622,Karlsruher SC,29699,Karlsruhe,UEFA
+623,1. FC Schweinfurt 05,15000,Schweinfurt,UEFA
+624,Hoffenheim,30164,Sinsheim,UEFA
+625,FC Augsburg,30660,Augsburg,UEFA
+626,"Hearts of Oak,  Great Olympics",40000,Accra,CAF
+627,Real Tamale United,21017,Tamale,CAF
+628,"Asante Kotoko, King Faisal",40528,Kumasi,CAF
+629,Ebusua Dwarfs,15000,Cape Coast,CAF
+630,Hasaacas,20000,Sekondi-Takoradi,CAF
+631,AE Lárisas,16118,Larissa,UEFA
+632,Véroia,9300,Véroia,UEFA
+633,Astéras,2500,Trípoli,UEFA
+634,Ionikós,6500,Níkaia,UEFA
+635,OFI 1925,9088,Iraklio,UEFA
+636,Olympiacos,33334,Peiraiefs,UEFA
+637,PAS Panachaiki,23588,Petras,UEFA
+638,Níkis,22140,Vólos,UEFA
+639,AE Lárisas,13108,Larissa,UEFA
+640,Panathinaikos,16003,Athens,UEFA
+641,Thrasyvoulos,3142,Fyli,UEFA
+642,"Apollonas Smyrnis, Aiyaleo",14200,Athens,UEFA
+643,Iraklis,28028,Thessaloniki,UEFA
+644,Apóllon,7000,Kalamariá,UEFA
+645,AO Kavala,12500,Kavala,UEFA
+646,Kérkyras,4000,Korfu,UEFA
+647,Aris,23220,Thessaloniki,UEFA
+648,Panthrakikos,3000,Komotini,UEFA
+649,Levadeiakós,5915,Livadéia,UEFA
+650,Panionios,11115,Athens,UEFA
+651,Ergotelis,25780,Iraklio,UEFA
+652,Atrómitos,10000,Peristeri,UEFA
+653,Paneserraikos,9500,Serres,UEFA
+654,Xánthi,7456,Pigádhia,UEFA
+655,"Panathinaikos, AEK",69618,Athens,UEFA
+656,Aiyáleo Athínion,3530,Aíyaleo,UEFA
+657,PAOK,28701,Thessaloniki,UEFA
+658,Olympiakós,9000,Vólos,UEFA
+659,"Nuuk IL, B-67",2000,Nuuk,UEFA
+660,ATA,500,Tasiilaq,UEFA
+661,CD Suchitepéquez,12000,Mazatenango,CONCACAF
+662,Aurora F.C.,12453,Guatemala City,CONCACAF
+663,Xelajú MC,11000,Quetzaltenango,CONCACAF
+664,"Comunicaciones, Municipal",30000,Guatemala City,CONCACAF
+665,CD Petapa,10000,Petapa,CONCACAF
+666,Antigua GFC,9000,Antigua,CONCACAF
+667,Hispano,10000,Comayagua,CONCACAF
+668,España,18000,San Pedro Sula,CONCACAF
+669,"Victoria, Vida",15000,La Ceiba,CONCACAF
+670,"Marathón, España",40000,San Pedro Sula,CONCACAF
+671,"Motagua,  Olímpia",35000,Tegucigalpa,CONCACAF
+672,Honved,9500,Budapest,UEFA
+673,Dunaújváros FC,12000,Dunaújváros,UEFA
+674,Gy?ri ETO,16000,Gy?r,UEFA
+675,Ferencváros,23700,Budapest,UEFA
+676,Haladás,8656,Szombathely,UEFA
+677,MTK,5322,Budapest,UEFA
+678,Vasas,9000,Budapest,UEFA
+679,Soproni VSE,5800,Sopron,UEFA
+680,Dunakanyar-Vác FC,9000,Vác,UEFA
+681,DVSC,20340,Debrecen,UEFA
+682,Puskás Akadémia FC,3500,Felcsút,UEFA
+683,DVSC,10000,Debrecen,UEFA
+684,Újpest,14817,Budapest,UEFA
+685,Százhalombattai LK,2000,Százhalombatta,UEFA
+686,ZTE,12360,Zalaegerszeg,UEFA
+687,Fjölnir,1098,Reykjavík,UEFA
+688,IB Vestmannaeyja,2983,Heimaey,UEFA
+689,Valur,3421,Reykjavík,UEFA
+690,Fimleikafélag Hafnarfjarðar,6450,Hafnarfjordur,UEFA
+691,"Breiðablik, HK",5501,Kópavogur,UEFA
+692,Fram,13000,Reykjavík,UEFA
+693,ÍA,5524,Akranes,UEFA
+694,Stjarnan,1000,Garðabær,UEFA
+695,Víkingur,1100,Reykjavík,UEFA
+696,HAL SC,8400,Bangalore,AFC
+697,"Mumbai FC, Mumbai City",4156,Mumbai,AFC
+698,Dynamos,60000,New Delhi,AFC
+699,Chirag United,41000,Kochi,AFC
+700,"East Bengal, Mohun Bagan, Prayag United, Pailan Ar",66000,Kolkata,AFC
+701,Persija Jakarta,76127,Jakarta,AFC
+702,Persebaya,50000,Surabaya,AFC
+703,Mitra Kukar,35000,Tenggarong,AFC
+704,PSPS,25000,Teluk Kuantan,AFC
+705,Persewangi,8000,Banyuwangi,AFC
+706,Bali United,25000,Gianyar,AFC
+707,Persema,30000,Malang,AFC
+708,Sriwijaya FC,40000,Palembang,AFC
+709,Arema,35000,Malang,AFC
+710,Persikabo,31000,Cibinong,AFC
+711,Pusamania Borneo,18000,samarinda,AFC
+712,"Persib, Persikab",27000,Bandung,AFC
+713,PSPS,40700,Pekanbaru,AFC
+714,"Persepolis, Esteghlal",78116,Tehran,AFC
+715,Padideh,27700,Mashhad,AFC
+716,Tractor Sazi,66833,Tabriz,AFC
+717,Erbil SC,28000,Erbil,AFC
+718,Karbala FC,30000,Karbala,AFC
+719,Bohemians,4227,Dublin,UEFA
+720,Longford Town,6850,Longford,UEFA
+721,Shamrock Rovers,5947,Tallaght,UEFA
+722,Rovers,4000,Sligo,UEFA
+723,"Shelbourne, Dublin City",6000,Dublin,UEFA
+724,Cork City,7485,Cork,UEFA
+725,"Hapoel Tel Aviv, Maccabi Tel Aviv, Bnei Yehuda",14413,Tel Awiw-Jafa,UEFA
+726,"Hapoel, Maccabi",11500,Petah Tikwa,UEFA
+727,Maccabi,4932,Ilut,UEFA
+728,Maccabi,8400,Herzliya,UEFA
+729,Maccabi,13800,Netanya,UEFA
+730,"Maccabi, Hapoel",30820,Haifa,UEFA
+731,"Beitar, Hapoel, Hapoel Katamon",31733,Jerusalem,UEFA
+732,"Maccabi, Hapoel",5000,Nazareth,UEFA
+733,Hapoel,16126,Beersheba,UEFA
+734,Ashdod,7980,Ashdod,UEFA
+735,Juventus,41507,Turin,UEFA
+736,AC Pisa,14869,Piza,UEFA
+737,Udinese,25144,Udine,UEFA
+738,"Reggiana, US Sassuolo",23717,Reggio Emilia,UEFA
+739,Cagliari Calcio,16416,Cagliari,UEFA
+740,FC Modena,20507,Modena,UEFA
+741,Clodiense SSD,3000,Chioggia,UEFA
+742,Calcio Catania,20797,Catania,UEFA
+743,Salernitana Sport,37245,Salerno,UEFA
+744,Livorno Calcio,19801,Livorno,UEFA
+745,Fiorentina,47300,Florence,UEFA
+746,AC Siena,15725,Siena,UEFA
+747,"Atalanta Bergamasca, Albinoleffe",24726,Bergamo,UEFA
+748,Frosinone Calcio,16125,Frosinone,UEFA
+749,AC Monza,18568,Monza,UEFA
+750,Empoli FC,16800,Empoli,UEFA
+751,Ascoli Picchio,20000,Ascoli Piceno,UEFA
+752,Torino FC,28140,Turin,UEFA
+753,Mantova,14884,Mantua,UEFA
+754,AC Cesena,23860,Cesena,UEFA
+755,Parma,21473,Parma,UEFA
+756,Taranto Calcio,26348,Taranto,UEFA
+757,Padova 1910,32336,Padova,UEFA
+758,Torino FC,4200,Turin,UEFA
+759,AS Varese,9424,Varese,UEFA
+760,Como Calcio,13602,Como,UEFA
+761,Ternana,22000,Terni,UEFA
+762,"Sampdoria, Genoa 1893",36348,Genoa,UEFA
+763,"Chievo Verona, Hellas Verona",39211,Verona,UEFA
+764,AS Brescia,26072,Brescia,UEFA
+765,Triestina,28565,Triest,UEFA
+766,"Roma, Lazio",70634,Rome,UEFA
+767,Reggina,27713,Reggio Calabria,UEFA
+768,SPAL,7000,Ferrara,UEFA
+769,US Avellino,26150,Avellino,UEFA
+770,AS Cittadella,7623,Cittadella,UEFA
+771,Venezia FC,7389,Venice,UEFA
+772,US Foggia,25085,Foggia,UEFA
+773,Trapani Calcio,7787,Trapani,UEFA
+774,Alma Juventus,8800,Fano,UEFA
+775,AC Perugia,27049,Perugia,UEFA
+776,Bologna FC,39300,Bologna,UEFA
+777,US Palermo,36349,Palermo,UEFA
+778,FC Messina,40200,Messina,UEFA
+779,AS Bari,58270,Bari,UEFA
+780,SSC Napoli,60240,Neapol,UEFA
+781,"AC Milan, Inter FC",81277,Milan,UEFA
+782,Cagliari Calcio,16000,Cagliari,UEFA
+783,Novara Calcio,17875,Novara,UEFA
+784,Pro Vercelli,4200,Vercelli,UEFA
+785,US Lecce,36285,Lecce,UEFA
+786,ASEC Mimosas,35000,Abidjan,CAF
+787,"FC Tokyo, Verdy",50100,Chofu (Tokyo),AFC
+788,Consadole,20861,Sapporo,AFC
+789,Gamba,23000,Osaka,AFC
+790,Sagan,24490,Tosu,AFC
+791,Sanfrecce,45000,Hiroshima,AFC
+792,Fagiano,20000,Okayama,AFC
+793,"Jubilo, S-Pulse",50889,Fukuroi,AFC
+794,JEF United,19781,Ichihara,AFC
+795,Reysol,15349,Kashiwa,AFC
+796,JEF United,15338,Ichihara,AFC
+797,Antlers,40728,Kashima,AFC
+798,Reysol,20000,Kashiwa,AFC
+799,Cerezo,20500,Osaka,AFC
+800,Ardija,15392,Kumagaya,AFC
+801,Avispa,22563,Fukuoka,AFC
+802,Zelvia,10600,Machida,AFC
+803,Kamatamare,30099,Marugame,AFC
+804,"Yamaga, Shiojri",20396,Matsumoto,AFC
+805,Giravanz,15066,Kitakyushu,AFC
+806,Nagano Parceiro,15491,Nagano,AFC
+807,"Vegalta, Sony",49133,Rifu,AFC
+808,FC Gifu,31000,Gifu,AFC
+809,V-Varen,20246,Isahaya,AFC
+810,Yamagata,20315,Tend?,AFC
+811,"Yokohama FC, F.Marinos",15454,Yokohama,AFC
+812,Albirex,42279,Niigata,AFC
+813,Ehime FC,30000,Matsuyama,AFC
+814,Sanga,20242,Kyoto,AFC
+815,Marinos,72327,Yokohama,AFC
+816,Vissel,30132,Kobe,AFC
+817,Trinita,40000,Oita,AFC
+818,Ardija,15500,Saitama,AFC
+819,S-Pulse,20299,Shimizu-Miho,AFC
+820,Red Diamonds,63718,Urawa,AFC
+821,Consadole,41484,Sapporo,AFC
+822,Thespa,10050,Gunma,AFC
+823,Shonan Bellmare,18500,Hiratsuka,AFC
+824,"Vegalta, Sony",19694,Sendai,AFC
+825,Gamba,39694,Suita,AFC
+826,Tochigi,15589,Utsunomiya,AFC
+827,Frontale,27495,Kawasaki,AFC
+828,Kataller,28494,Toyama,AFC
+829,Grampus Eight,45000,Toyota,AFC
+830,Roasso,32000,Kumamoto,AFC
+831,Vissel,60000,Kobe,AFC
+832,Red Diamonds,21500,Urawa,AFC
+833,Júbilo,16879,Iwata,AFC
+834,Cerezo,45409,Osaka,AFC
+835,"Al-Wahdat, Al-Baqa'a, Al-Jazeera, Al-Yarmouk",18000,Amman,AFC
+836,FC Astana,30254,Astana,UEFA
+837,"Almaty FK, MegaSport, Qayrat",23804,Almaty,UEFA
+838,FK Ordabasy,37000,Shymkent,UEFA
+839,FK Astana,12250,Astana,UEFA
+840,Zhetysu,5550,Taldykorgan,UEFA
+841,"AllStars, Ulinzi Stars, Utawala",8200,Nakuru,CAF
+842,Leopards,30000,Nairobi,CAF
+843,"Mathare United, Tusker",60000,Nairobi,CAF
+844,Al-Jahra SC,17000,Jahra,AFC
+845,Al-Salmiya SC,16105,Salmiya,AFC
+846,"Dinaburg, Ditton",3480,Daugavpils,UEFA
+847,Olimps,10000,Riga,UEFA
+848,FK Liep?ja,5083,Liep?ja,UEFA
+849,"FK Liep?ja, 1625 Liep?ja",1500,Liep?ja,UEFA
+850,Skonto,9500,Riga,UEFA
+851,Caramba/Dinamo,412,Riga,UEFA
+852,FK Ventspils,3250,Ventspils,UEFA
+853,FK Jelgava,1560,Jelgava,UEFA
+854,Al-Ansar,18000,Beirut,AFC
+855,Al-Ahli,22600,Sidon,AFC
+856,Ekranas,9940,Panev?žys,UEFA
+857,"Žalgiris, MRU, Polonia",5422,Vilnius,UEFA
+858,Kruoja,2000,Pakruojis,UEFA
+859,FBK,8248,Kaunas,UEFA
+860,"FC Šiauliai, Gintra–Universitetas",2430,Šiauliai,UEFA
+861,S?duva,4000,Marijampol?,UEFA
+862,Swift,4100,Hesperange,UEFA
+863,Hamm Benfica,2800,Luxembourg,UEFA
+864,FC Differdange,6300,Differdange,UEFA
+865,Fola,3900,Esch-sur-Alzette,UEFA
+866,F91 Dudelange,2558,Dudelange,UEFA
+867,Racing Union,8054,Luxembourg,UEFA
+868,US Rumelange,3010,Rumelange,UEFA
+869,"CS Oberkorn, FC Differdange 03",2400,Differdange,UEFA
+870,SC Grevenmacher,4062,Grevenmacher,UEFA
+871,Pelister,6100,Bitola,UEFA
+872,Madžari Solidarnost,3000,Skopje,UEFA
+873,Makedonija,3000,Skopje,UEFA
+874,Pobeda,5684,Prilep,UEFA
+875,"Karaorman, Vlaznimi",1000,Struga,UEFA
+876,Napredok,5000,Ki?evo,UEFA
+877,"Renova, Shkendija 79, Teteks",15000,Tetovo,UEFA
+878,"Rabotni?ki, Vardar",36400,Skopje,UEFA
+879,"PB Pahang, Shahzan Muda",40000,Kuantan,AFC
+880,Johor FC,15000,Pasir Gudang,AFC
+881,Johor Darul Ta'zim,30000,Johor Bahru,AFC
+882,Sabah FA,35000,Kota Kinabalu,AFC
+883,Sime Darby,10000,Selayang,AFC
+884,PKNS,25000,Petaling Jaya,AFC
+885,Selangor,69372,Shah Alam,AFC
+886,Hibernians,1232,Paola,UEFA
+887,"Birkirka, Valletta, inne",17797,Ta’ Qali,UEFA
+888,?amrun Spartans,858,?amrun,UEFA
+889,Estudiantes,22988,Guadalajara,CONCACAF
+890,Zacatepec Siglo XXI,24443,Zacatepec,CONCACAF
+891,Chivas,49850,Zapopan,CONCACAF
+892,Potros,32000,Toluca,CONCACAF
+893,Club San Luís,24000,San Luís Potosí,CONCACAF
+894,CF Atlante,20000,Cancún,CONCACAF
+895,"América, Cruz Azul",87000,Mexico City,CONCACAF
+896,Atlante,28500,Netzahualcóyotl,CONCACAF
+897,Dorados,21000,Culiacán,CONCACAF
+898,CF Monterrey,53500,Guadeloupe,CONCACAF
+899,Club Tijuana,27333,Tijuana,CONCACAF
+900,Puebla FC,51726,Puebla,CONCACAF
+901,Atlas,56713,Guadalajara,CONCACAF
+902,Reboceros,20000,La Piedad,CONCACAF
+903,Querétaro FC,34130,Querétaro,CONCACAF
+904,Club León,31297,León,CONCACAF
+905,Veracruz,28703,Boca del Rio,CONCACAF
+906,Correcaminos,18000,Ciudad Victoria,CONCACAF
+907,Pachuca CF,25000,Pachuca,CONCACAF
+908,Monarcas,38869,Morelia,CONCACAF
+909,Deportivo Toluca,30000,Toluca,CONCACAF
+910,Pumas,63186,Mexico City,CONCACAF
+911,Alebrijes,17200,Oaxaca de Juárez,CONCACAF
+912,Santos Laguna,30000,Torreon,CONCACAF
+913,Tigres,41886,San Nicolás de los Garza,CONCACAF
+914,"Lobos de la BUAP, Lobos Prepa",20411,Puebla,CONCACAF
+915,Jaguares,29508,Tuxtla Gutiérrez,CONCACAF
+916,Necaxa,25494,Aquascalientes,CONCACAF
+917,Sheriff,12746,Tiraspol,UEFA
+918,"FC Politehnica, CSCA",2692,Kishinev,UEFA
+919,Sheriff,3570,Tiraspol,UEFA
+920,Sheriff,8914,Tiraspol,UEFA
+921,"FC Dacia, Dacia-2",8009,Kishinev,UEFA
+922,FC Zimbru,10600,Kishinev,UEFA
+923,Budu?nost,15230,Podgorica,UEFA
+924,"Maghreb, Wydad",45000,Fes,CAF
+925,Hassania,45480,Agadir,CAF
+926,Chabab,15000,Mohammedia,CAF
+927,Mouloudia,30000,Oujda,CAF
+928,CODM,20000,Meknes,CAF
+929,FUS,10000,Rabat,CAF
+930,KACM,45240,Marrakech,CAF
+931,Ittihad,45000,Tangier,CAF
+932,Ittihad,10000,Khemisset,CAF
+933,Olympique,10000,Khouribga,CAF
+934,Difaâ,10000,El Jadida,CAF
+935,Olympique,15000,Safi,CAF
+936,Wydad,10000,Fes,CAF
+937,Chabab,12500,Al Hoceima,CAF
+938,"Raja, Wydad",67000,Casablanca,CAF
+939,FAR,65000,Rabat,CAF
+940,KAC,15000,Kenitra,CAF
+941,Moghreb,10000,Tetouan,CAF
+942,Ferroviário,40000,Maputo,CAF
+943,"New Road, Ranipokhari Corner, Three Star, Tribhuva",25000,Kathmandu,AFC
+944,SC Heerenven,26400,Heerenven,UEFA
+945,AZ,17250,Alkmaar,UEFA
+946,SC Cambuur,10250,Leeuwarden,UEFA
+947,Go Ahead Eagles,10400,Deventer,UEFA
+948,MVV Maastricht,10000,Maastricht,UEFA
+949,Twente,30205,Enschede,UEFA
+950,VVV Venlo,8000,Venlo,UEFA
+951,FC Emmen,8301,Emmen,UEFA
+952,FC Oss,4560,Oss,UEFA
+953,Vitesse,21248,Arnhem,UEFA
+954,NEC,12470,Nijmegen,UEFA
+955,FC Groningen,22550,Groningen,UEFA
+956,Ajax,55134,Amsterdam,UEFA
+957,Willem II,14637,Tilburg,UEFA
+958,FC Volendam,6984,Volendam,UEFA
+959,ADO Den Haag,15000,Hague,UEFA
+960,Helmond Sport,4200,Helmond,UEFA
+961,PEC Zwolle,13250,Zwolle,UEFA
+962,RKC Waalwijk,7500,Waalwijk,UEFA
+963,Roda,19200,Kerkrade,UEFA
+964,PSV,35119,Eindhoven,UEFA
+965,NAC,19000,Breda,UEFA
+966,Sparta Rotterdam,11026,Rotterdam,UEFA
+967,Achilles '29,4500,Groesbeek,UEFA
+968,Westlandia,2000,Naaldwijk,UEFA
+969,SV Spakenburg,2300,Spakenburg,UEFA
+970,IJsselmeervogels,2550,Spakenburg,UEFA
+971,USV Elinkwijk,5000,Utrecht,UEFA
+972,Wilhelmus,1000,Voorburg,UEFA
+973,Feyenoord,51117,Rotterdam,UEFA
+974,Utrecht,24426,Utrecht,UEFA
+975,Heracles,13500,Almelo,UEFA
+976,Exelsior,3785,Rotterdam,UEFA
+977,Telstar,3625,Velsen-Zuid,UEFA
+978,Fortuna Sittard,12500,Sittard,UEFA
+979,Otago United,30748,Dunedin,OFC
+980,Phoenix,36000,Wellington,OFC
+981,Pyongyang City,50000,Pyongyang,AFC
+982,Ulster Rugby,18196,Belfast,UEFA
+983,Cliftonville,6224,Belfast,UEFA
+984,Glentoran,5056,Belfast,UEFA
+985,Linfield,18614,Belfast,UEFA
+986,Molde FK,11167,Molde,UEFA
+987,Tromsø IL,7500,Tromsø,UEFA
+988,Lillestrøm SK,12250,Lillestrøm,UEFA
+989,Bodø/Glimt,7294,Bodø,UEFA
+990,"Skeid, Lyn",15400,Oslo,UEFA
+991,Brann,17686,Bergen,UEFA
+992,Ålesund FK,10720,Ålesund,UEFA
+993,Henningsvær IL,500,Henningsvær,UEFA
+994,Vålerenga,17333,Oslo,UEFA
+995,Sandefjord Fotball,9000,Sandefjord,UEFA
+996,Rosenborg,21366,Trondheim,UEFA
+997,"Stromsgodset, Drafn, Drammen FK",8500,Drammen,UEFA
+998,Stabæk,4750,Bærum,UEFA
+999,Sarpsborg 08 FF,5000,Sarpsborg,UEFA
+1000,IK Start,14300,Kristiansand,UEFA
+1001,Strømmen IF,1800,Strømmen,UEFA
+1002,Viking,15300,Stavanger,UEFA
+1003,"Dhofar, Al-Nasr",8000,Salalah,AFC
+1004,Al-Seeb SC,8000,Seeb,AFC
+1005,Sohar Club,19000,Sohar,AFC
+1006,Sur SC,8000,Sur,AFC
+1007,3 de Febrero,28000,Pedro Juan Caballero,CONMEBOL
+1008,Club Libertad,10000,Asunción,CONMEBOL
+1009,Luque?o,24000,Luque,CONMEBOL
+1010,Cerro Porte?o,45000,Asunción,CONMEBOL
+1011,Olímpia,22000,Asunción,CONMEBOL
+1012,2 de Mayo,22000,Pedro Juan Caballero,CONMEBOL
+1013,Alianza,33938,Lima,CONMEBOL
+1014,Cienciano,42056,Cusco,CONMEBOL
+1015,Sport Boys,15000,Callao,CONMEBOL
+1016,Universitario,80093,Ate,CONMEBOL
+1017,W?ókniarz,16850,Cz?stochowa,UEFA
+1018,"Motor, Lublinianka",15400,Lublin,UEFA
+1019,Górnik,24563,Zabrze,UEFA
+1020,Czarni,2060,Zagan,UEFA
+1021,Dolcan,2100,Zabki,UEFA
+1022,GKS,5264,Be?chatów,UEFA
+1023,?l?za,4000,Wroclaw,UEFA
+1024,"Izolator, Stal",943,Boguchwa?a,UEFA
+1025,MGLKS Uniejów,800,Uniejów,UEFA
+1026,Apator,15000,Toru?,UEFA
+1027,Ba?tyk,2425,Gdynia,UEFA
+1028,Tur,2400,Turek,UEFA
+1029,Unia,16700,Leszno,UEFA
+1030,Amica,5296,Wronki,UEFA
+1031,Arkonia,10000,Szczecin,UEFA
+1032,Ba?tyk,4000,Koszalin,UEFA
+1033,"Podbeskidzie, BKS Stal",660,Bielsko-Bia?a,UEFA
+1034,Boles?aw,3469,Bukowno,UEFA
+1035,"Bro?, Radomiak",4066,Radom,UEFA
+1036,Pogo?,960,Barlinek,UEFA
+1037,Termalica Bruk-Bet,4666,Nieciecza,UEFA
+1038,Bug,6900,Wyszków,UEFA
+1039,Bytovia,2043,Bytow,UEFA
+1040,Carbo,1025,Gliwice,UEFA
+1041,Cartusia,1000,Kartuzy,UEFA
+1042,Ceramika,4700,Opoczno,UEFA
+1043,Che?mianka,3280,Chelm,UEFA
+1044,Chemik,15000,Bydgoszcz,UEFA
+1045,Chojniczanka,3500,Chojnice,UEFA
+1046,Chrobry,2817,G?ogów,UEFA
+1047,Cracovia,14572,Krakow,UEFA
+1048,Klon,540,Babimost,UEFA
+1049,Piast,1483,Nowa Ruda,UEFA
+1050,Czarni,873,Jas?o,UEFA
+1051,Czarni,2000,Olecko,UEFA
+1052,Dyskobolia,5383,Grodzisk Wielkopolski,UEFA
+1053,Polonia,5500,Bytom,UEFA
+1054,Lechia,41620,Gdansk,UEFA
+1055,ZK?,15000,Zielona Gora,UEFA
+1056,Pogo?,18027,Szczecin,UEFA
+1057,Flota,3240,?winouj?cie,UEFA
+1058,Garbarnia,963,Krakow,UEFA
+1059,GKS,6800,Jastrz?bie-Zdrój,UEFA
+1060,GKS,6710,Katowice,UEFA
+1061,Górnik,7456,??czna,UEFA
+1062,Górnik,977,Libiaz,UEFA
+1063,GLKS Nadarzyn,900,Nadarzyn,UEFA
+1064,Arka,15139,Gdynia,UEFA
+1065,Granica,1476,Bogatynia,UEFA
+1066,Gryf,2500,Wejherowo,UEFA
+1067,Gryf,900,Kamie? Pomorski,UEFA
+1068,Gryf,3000,S?upsk,UEFA
+1069,Elana Toru?,4300,Toru?,UEFA
+1070,Wis?a,33130,Krakow,UEFA
+1071,Hetman,12500,Zamo??,UEFA
+1072,Huragan,924,Pobiedziska,UEFA
+1073,Hutnik,6000,Warsaw,UEFA
+1074,Igloopol,12000,Debica,UEFA
+1075,Nielba,2600,W?growiec,UEFA
+1076,Sokó?,2086,Aleksandrów ?ódzki,UEFA
+1077,Cuiavia,3500,Inowroclaw,UEFA
+1078,Jagiellonia,22386,Bialystok,UEFA
+1079,Jarota,1984,Jarocin,UEFA
+1080,Jeziorak,5000,I?awa,UEFA
+1081,CKS,1300,Czeladz,UEFA
+1082,Karkonosze,7558,Jelenia Gora,UEFA
+1083,Sparta,644,Gryfice,UEFA
+1084,"Karpaty, KSM",6000,Krosno,UEFA
+1085,KP Starogard,3291,Starogard Gda?ski,UEFA
+1086,Wis?a,10978,P?ock,UEFA
+1087,Konfeks,3200,Legnica,UEFA
+1088,Koszarawa,2500,?ywiec,UEFA
+1089,KSZO,7430,Ostrowiec ?wi?tokrzyski,UEFA
+1090,W?oc?avia,4840,W?oc?awek,UEFA
+1091,Chemik,3000,K?dzierzyn-Ko?le,UEFA
+1092,?ada,1495,Bi?goraj,UEFA
+1093,Lech Pozna?,42837,Poznan,UEFA
+1094,Lechia,11811,Gdansk,UEFA
+1095,Lechia,4500,Dzierzoniow,UEFA
+1096,Lechia,1150,Strawczyn,UEFA
+1097,Legionovia,1730,Legionowo,UEFA
+1098,Bojary,1500,Bialystok,UEFA
+1099,D?b,672,Barcin,UEFA
+1100,Wybrze?e Rewalskie,1250,Niechorze,UEFA
+1101,?KS,5700,?ód?,UEFA
+1102,?KS,3450,?om?a,UEFA
+1103,Zag??bie,7500,Sosnowiec,UEFA
+1104,Górnik,850,Konin,UEFA
+1105,"Mazur, P?omie?",2720,Elk,UEFA
+1106,GKS Tychy,15150,Tychy,UEFA
+1107,MKS Alwernia,1500,Alwernia,UEFA
+1108,Sarmacja,10000,Bedzin,UEFA
+1109,"Podbeskidzie, BKS Stal",15076,Bielsko-Bia?a,UEFA
+1110,MKS Gogolin,1600,Gogolin,UEFA
+1111,Mazur,3000,Gostynin,UEFA
+1112,Carina,2000,Gubin,UEFA
+1113,MKS Kluczbork,2586,Kluczbork,UEFA
+1114,KS Kutno,4050,Kutno,UEFA
+1115,Warta,600,Mi?dzychód,UEFA
+1116,"Polonia, TS05",1030,Nowy Tomy?l,UEFA
+1117,KS Polkowice,3325,Polkowice,UEFA
+1118,Rad?ovia,1000,Rad?ów,UEFA
+1119,RKS 1979,5000,Radomsko,UEFA
+1120,Orl?ta-Spomlek,1000,Radzy? Podlaski,UEFA
+1121,Star,15000,Starachowice,UEFA
+1122,Victoria,1240,Sulejówek,UEFA
+1123,Avia,2800,?widnik,UEFA
+1124,"Wielim, Darzbór",1500,Szczecinek,UEFA
+1125,Zjednoczeni,1000,Trzemeszno,UEFA
+1126,Nysa,1913,Zgorzelec,UEFA
+1127,Victoria,927,Wrze?nia,UEFA
+1128,Mieszko,2050,Gniezno,UEFA
+1129,MKS,4700,Kozienice,UEFA
+1130,Stal,2100,Brzeg,UEFA
+1131,"Motor, T? Lublin",10000,Lublin,UEFA
+1132,Wis?a,4418,Pu?awy,UEFA
+1133,Celuloza,2800,Kostrzyn nad Odr?,UEFA
+1134,MKS Myszków,780,Myszków,UEFA
+1135,Zatoka,636,Puck,UEFA
+1136,Naprzód,5500,Rydultowy,UEFA
+1137,Narew,2758,Ostro??ka,UEFA
+1138,Obra,4000,Koscian,UEFA
+1139,MKS O?awa,3000,Olawa,UEFA
+1140,Odra,4560,Opole,UEFA
+1141,"Odra, Odra Centrum, SWD Wodzis?aw",5835,Wodzis?aw ?l?ski,UEFA
+1142,Ok?cie,1000,Warsaw,UEFA
+1143,Olimpia,3000,Elbl?g,UEFA
+1144,Olimpia,5500,Grudzi?dz,UEFA
+1145,PS?,6250,Poznan,UEFA
+1146,Olimpia,999,Zambrow,UEFA
+1147,Sparta,11000,Wroclaw,UEFA
+1148,Polonia,3056,Slubice,UEFA
+1149,Orkan,1280,Rumia,UEFA
+1150,Orkan,3000,Sochaczew,UEFA
+1151,Mied?,6194,Legnica,UEFA
+1152,Orze?,1500,Mi?dzyrzecz,UEFA
+1153,Orze?,1266,Z?bkowice ?l?skie,UEFA
+1154,Note?,1360,Czarnków,UEFA
+1155,Stilon,4000,Gorzów Wielkopolski,UEFA
+1156,?l?sk,244,Swietochlowice,UEFA
+1157,Stomil,16800,Olsztyn,UEFA
+1158,Lubuszanin,2000,Trzcianka,UEFA
+1159,Patria,900,Buk,UEFA
+1160,Pcimianka,384,Pcim,UEFA
+1161,Pelikan,4000,?owicz,UEFA
+1162,Piast,10037,Gliwice,UEFA
+1163,Piast,900,?migród,UEFA
+1164,Podlesianka,500,Katowice,UEFA
+1165,Pogo?,1000,Lwówek,UEFA
+1166,Pogo?,1000,Miechów,UEFA
+1167,Pogo?,3500,?wiebodzin,UEFA
+1168,Polar,1800,Wroclaw,UEFA
+1169,Polonia,20000,Bydgoszcz,UEFA
+1170,Polonia,1600,Lidzbark Warmi?ski,UEFA
+1171,Polonia,7152,Warsaw,UEFA
+1172,Posnania,1458,Poznan,UEFA
+1173,Promie?,1015,Opalenica,UEFA
+1174,Przebój,1500,Wolbrom,UEFA
+1175,Przemsza,647,Siewierz,UEFA
+1176,Puszcza,2118,Niepo?omice,UEFA
+1177,Radomiak,6000,Radom,UEFA
+1178,Raków,8000,Cz?stochowa,UEFA
+1179,Resovia,3420,Rzeszów,UEFA
+1180,Pogo?,2901,Siedlce,UEFA
+1181,ROW,10304,Rybnik,UEFA
+1182,Roztocze,660,Szczebrzeszyn,UEFA
+1183,Rozwój,2472,Katowice,UEFA
+1184,Ruch,10000,Chorzów,UEFA
+1185,Sandecja,3527,Nowy S?cz,UEFA
+1186,Kotwica,3014,Ko?obrzeg,UEFA
+1187,Siarka,3770,Tarnobrzeg,UEFA
+1188,Skra,35000,Warsaw,UEFA
+1189,?l?sk,8346,Wroclaw,UEFA
+1190,?l?sk,42771,Wroclaw,UEFA
+1191,Sokó?,4998,Ostroda,UEFA
+1192,Sokó?,960,Pniewy,UEFA
+1193,Sparta,2877,Szamotu?y,UEFA
+1194,Sparta,13000,Zabrze,UEFA
+1195,Stal,15024,Gorzów Wielkopolski,UEFA
+1196,Stal,1960,Kasnik,UEFA
+1197,Stal,6864,Mielec,UEFA
+1198,Stal,1200,Poniatowa,UEFA
+1199,Stal,11547,Rzeszów,UEFA
+1200,Stal,2937,Stalowa Wola,UEFA
+1201,Gwardia,1500,Koszalin,UEFA
+1202,Start,10000,Gniezno,UEFA
+1203,Start,1972,Krasnystaw,UEFA
+1204,Stal,300,Szczecin,UEFA
+1205,?wit,500,Dzia?oszyce,UEFA
+1206,?wit,3400,Nowy Dwór Mazowiecki,UEFA
+1207,"Szombierki, Polonia",1000,Bytom,UEFA
+1208,T?oki,3000,Gorzyce,UEFA
+1209,Tomasovia,2050,Tomaszów Lubelski,UEFA
+1210,Górnik,3500,Wa?brzych,UEFA
+1211,Unia Janikowo,3828,Janikowo,UEFA
+1212,Unia,2500,Racibórz,UEFA
+1213,Unia,1500,Swarz?dz,UEFA
+1214,Unia,13000,Tarnów,UEFA
+1215,Gryf 2009,1292,Tczew,UEFA
+1216,Urania,2000,Ruda slaska,UEFA
+1217,Ursus,1120,Warsaw,UEFA
+1218,Szczakowianka,7000,Jaworzno,UEFA
+1219,Victoria,400,Skalbmierz,UEFA
+1220,Grom,600,Plewiska,UEFA
+1221,Warmia,1740,Grajewo,UEFA
+1222,Warta,4694,Poznan,UEFA
+1223,Warta,2000,Sieradz,UEFA
+1224,Warta,3000,?rem,UEFA
+1225,Warta,1500,Zawiercie,UEFA
+1226,Wawel,5500,Krakow,UEFA
+1227,Widzew,18018,?ód?,UEFA
+1228,Wigry,3060,Suwalki,UEFA
+1229,Wis?a,736,Annopol,UEFA
+1230,Wis?a,2221,Sandomierz,UEFA
+1231,W?oc?avia,937,W?oc?awek,UEFA
+1232,Legia,30967,Warsaw,UEFA
+1233,Zag??bie,16086,Lubin,UEFA
+1234,Wybrze?e,10000,Gdansk,UEFA
+1235,SP Zawisza,20247,Bydgoszcz,UEFA
+1236,Medyk,7871,Konin,UEFA
+1237,Znicz,1977,Pruszków,UEFA
+1238,Zorza-Tempo,431,Pacanow,UEFA
+1239,Nowy Hutnik,6000,Krakow,UEFA
+1240,Korona,15500,Kielce,UEFA
+1241,Benfica,2708,Seixal,UEFA
+1242,Gil Vicente,12504,Barcelos,UEFA
+1243,Leixões,9730,Matosinhos,UEFA
+1244,Belenenses,19980,Lisbon,UEFA
+1245,GD Chaves,8800,Chaves,UEFA
+1246,Vizela,1500,Caldas de Vizela,UEFA
+1247,Estoril Praia,8000,Estoril,UEFA
+1248,Naval,10000,Figueira da Foz,UEFA
+1249,Almada AC,3000,Almada,UEFA
+1250,Académica,30210,Coimbra,UEFA
+1251,Benfica,66147,Lisbon,UEFA
+1252,Nacional Madeira,5132,Funchal,UEFA
+1253,P. Ferreira,6452,Paços de Ferreira,UEFA
+1254,AD de Machico,3300,Machico,UEFA
+1255,Farense,7000,Faro,UEFA
+1256,Boavista,28263,Porto,UEFA
+1257,Vitória,18728,Setubal,UEFA
+1258,Aves,5441,Vila das Aves,UEFA
+1259,FC Porto,50948,Porto,UEFA
+1260,Marítimo,10932,Funchal,UEFA
+1261,SC Freamunde,5000,Freamunde,UEFA
+1262,Vitória,30452,Guimarâes,UEFA
+1263,Rio Ave,12820,Vila do Conde,UEFA
+1264,Silves FC,3000,Silves,UEFA
+1265,Leiria,23850,Leiria,UEFA
+1266,CD Tondela,4500,Tondela,UEFA
+1267,Sporting,50044,Lisbon,UEFA
+1268,FC de Panafiel,6500,Penafiel,UEFA
+1269,Imortal,5000,Albufeira,UEFA
+1270,FC Arouca,5000,Arouca,UEFA
+1271,Beira Mar,30970,Aveiro,UEFA
+1272,Braga,30154,Braga,UEFA
+1273,CF Esperança,4600,Lagos,UEFA
+1274,Portimonense,6204,Portimão,UEFA
+1275,Casa Pia,2574,Lisbon,UEFA
+1276,Varzim SC,11000,Póvoa de Varzim,UEFA
+1277,Lekhwiya SC,9000,Doha,AFC
+1278,"Al-Rayyan, Al-Kharitiyath",21282,Al-Rayyan,AFC
+1279,Al Shamal,5000,Madinat ash Shamal,AFC
+1280,Al-Arabi,13000,Doha,AFC
+1281,Al-Sadd,15000,Doha,AFC
+1282,Al-Gharafa,21175,Doha,AFC
+1283,Bidvest Wits,5000,Johannesburg,CAF
+1284,Ajax,55000,Cape Town,CAF
+1285,Kaizer Chiefs,94736,Johannesburg,CAF
+1286,"Sundowns, Supersport United",28900,Atteridgeville,CAF
+1287,Chippa United,48459,Port Elizabeth,CAF
+1288,Pirates,40000,Orlando,CAF
+1289,Kaizer Chiefs,25000,Rosettenville,CAF
+1290,Platinum Stars,44530,Phokeng,CAF
+1291,Celtic,48000,Bloemfontein,CAF
+1292,U Cluj,30335,Cluj-Napoca,UEFA
+1293,"Rapid, Sporting",12500,Suceava,UEFA
+1294,Avântul Reghin,3000,Reghin,UEFA
+1295,Ceahl?ul,18000,Piatra Neam?,UEFA
+1296,Viitorul,3000,Ovidiu,UEFA
+1297,Concordia,5123,Chiajna,UEFA
+1298,Progresul,14542,Bucarest,UEFA
+1299,Poli,32019,Timi?oara,UEFA
+1300,Dinamo,15300,Bucarest,UEFA
+1301,CFR Cluj,23500,Cluj-Napoca,UEFA
+1302,CSMS Ia?i,11390,Ia?i,UEFA
+1303,Farul,15500,Constan?a,UEFA
+1304,Flac?ra,10000,Moreni,UEFA
+1305,S?geata,4000,N?vodari,UEFA
+1306,UTA,12500,Arad,UEFA
+1307,Gaz Metan Târgu Mure?,2000,Târgu Mure?,UEFA
+1308,Steaua,27063,Bucarest,UEFA
+1309,Rapid,19100,Bucarest,UEFA
+1310,Gloria Bistri?a,8100,Bistri?a,UEFA
+1311,Petrolul,15500,Ploie?ti,UEFA
+1312,Universitatea,30983,Craiova,UEFA
+1313,Bihor,11000,Oradea,UEFA
+1314,Jiul,15500,Petro?ani,UEFA
+1315,Maris Târgu Mure?,15000,Târgu Mure?,UEFA
+1316,Astra,8500,Giurgiu,UEFA
+1317,"Metalul, Olimpia",4000,Aiud,UEFA
+1318,FC Hunedoara,16500,Hunedoara,UEFA
+1319,ASA Târgu Mure?,3500,Târgu Mure?,UEFA
+1320,FCM Bac?u,17500,Bac?u,UEFA
+1321,FC Boto?ani,8500,Boto?ani,UEFA
+1322,CF Br?ila,20194,Br?ila,UEFA
+1323,Gloria,18000,Buz?u,UEFA
+1324,Hermannstadt,14200,Sibiu,UEFA
+1325,FCSB,55634,Bucarest,UEFA
+1326,Sportul,12000,Bucarest,UEFA
+1327,Pandurii,9200,Târgu-Jiu,UEFA
+1328,Olt,13500,Scornice?ti,UEFA
+1329,Akhmat,30597,Grozny,UEFA
+1330,Anji,27000,Kaspiysk,UEFA
+1331,"Dinamo, CSKA",18636,Khimki,UEFA
+1332,FK Arsenal,20048,Tula,UEFA
+1333,Luch-Energiya,10200,Vladivostok,UEFA
+1334,Rubin,45105,Kazan,UEFA
+1335,Kuban,31654,Krasnodar,UEFA
+1336,Lokomotiv,28800,Moscow,UEFA
+1337,Lokomotiv,10000,Moscow,UEFA
+1338,Zenit,3018,Petersburg,UEFA
+1339,Krylia Sovietov,33001,Samara,UEFA
+1340,Mordovia,44149,Saransk,UEFA
+1341,FK Rostov,17023,Rostov-on-Don,UEFA
+1342,Spartak,45360,Moscow,UEFA
+1343,Zenit,21838,Petersburg,UEFA
+1344,FK Rostov,45335,Rostov-on-Don,UEFA
+1345,Krylia Sovetov,44918,Samara,UEFA
+1346,FK Sibir,12500,Novosibirsk,UEFA
+1347,Dinamo,37000,Moscow,UEFA
+1348,FK Krasnodar,34291,Krasnodar,UEFA
+1349,Sportakademklub,13000,Moscow,UEFA
+1350,Baltika,35212,Kaliningrad,UEFA
+1351,Olimpiyets,45000,Nizhny Novgorod,UEFA
+1352,Zenit,68134,Petersburg,UEFA
+1353,Torpedo,18500,Vladimir,UEFA
+1354,Torpedo,14274,Moscow,UEFA
+1355,Ural,35696,Yekaterinburg,UEFA
+1356,FK Enisey,25000,Krasnoyarsk,UEFA
+1357,CSKA,30000,Moscow,UEFA
+1358,Rotor,45568,Volgograd,UEFA
+1359,Amkar,20000,Perm,UEFA
+1360,"AS Kigali, Rayon Sports, Nyanza, Kiyovu, La Jeunes",30000,Kigali,CAF
+1361,"Al-Taawon, Al-Raed",25000,Buraydah,AFC
+1362,"Al-Ahli, Al-Ittihad",60241,Jeddah,AFC
+1363,"Al-Shabab, Al-Hilal, Al-Riyadh",68752,Riyadh,AFC
+1364,"Al-Ahli, Al-Ittihad",20000,Jeddah,AFC
+1365,Clyde,8029,Cumbernauld,UEFA
+1366,Inverness CT,7512,Inverness,UEFA
+1367,Greenock Morton,11100,Greenock,UEFA
+1368,Celtic,60832,Glasgow,UEFA
+1369,Whitletts Victoria,1478,Ayr,UEFA
+1370,Dunfermline Athletic,11780,Dunfermline,UEFA
+1371,Hibernian,20421,Edinburgh,UEFA
+1372,Partick Thistle,10887,Glasgow,UEFA
+1373,Airdrie United,10171,Airdrie,UEFA
+1374,Falkirk FC,6857,Falkirk,UEFA
+1375,Motherwell FC,13742,Motherwell,UEFA
+1376,Annan Athletic,2504,Annan,UEFA
+1377,Ross County,6310,Dingwall,UEFA
+1378,Queens Park,51866,Glasgow,UEFA
+1379,Rangers,50817,Glasgow,UEFA
+1380,Dundee FC,12006,Dundee,UEFA
+1381,St. Johnstone,10723,Perth,UEFA
+1382,Irvine Meadow XI,5000,Irvine,UEFA
+1383,Edinburgh City,16500,Edinburgh,UEFA
+1384,Academical,6018,Hamilton,UEFA
+1385,St. Mirren,8023,Paisley,UEFA
+1386,Queen of the South,6412,Dumfries,UEFA
+1387,"Petershill, Rossvale",2000,Glasgow,UEFA
+1388,Aberdeen FC,20961,Aberdeen,UEFA
+1389,Kilmarnock FC,18128,Kilmarnock,UEFA
+1390,Raith Rovers,8473,Kirkcaldy,UEFA
+1391,Dundee United,14209,Dundee,UEFA
+1392,Dumbarton FC,2025,Dumbarton,UEFA
+1393,Livingston FC,9521,Livingston,UEFA
+1394,Hearts,20099,Edinburgh,UEFA
+1395,Draga?evo,2000,Gu?a,UEFA
+1396,Sloga,5000,Kraljevo,UEFA
+1397,FK Novi Pazar,10000,Novi Pazar,UEFA
+1398,Spartak,13000,Subotica,UEFA
+1399,Radnik,3312,Surdulica,UEFA
+1400,Sloboda,12000,Užice,UEFA
+1401,OFK Beograd,20000,Belgrade,UEFA
+1402,Radni?ki,18151,Niš,UEFA
+1403,Radni?ki 1923,15100,Kragujevac,UEFA
+1404,FK Jagodina,10000,Jagodina,UEFA
+1405,Partizan,32710,Belgrade,UEFA
+1406,FK Smederevo,17200,Smederevo,UEFA
+1407,Zemun,10000,Belgrade,UEFA
+1408,Hajduk,2000,Belgrade,UEFA
+1409,"Vojvodina, Proleter",12303,Novi Sad,UEFA
+1410,Javor,3000,Ivanjica,UEFA
+1411,Rad,6000,Belgrade,UEFA
+1412,FK Metalac,4600,Gornji Milanovac,UEFA
+1413,Mladost,8000,Lu?ani,UEFA
+1414,Napredak,10331,Kruševac,UEFA
+1415,FK Obili?,4508,Belgrade,UEFA
+1416,Crvena Zvezda,55538,Belgrade,UEFA
+1417,Mladi Radnik,3200,Požarevac,UEFA
+1418,FK Voždovac,5174,Belgrade,UEFA
+1419,Young Lions,6000,Singapore,AFC
+1420,AFC Považan,4500,Nové Mesto nad Váhom,UEFA
+1421,Spartak,19200,Trnava,UEFA
+1422,HFK Prievidza,6000,Prievidza,UEFA
+1423,1.HFC Humenné,10000,Humenné,UEFA
+1424,FK ZTS Dubnica,5450,Dubnica nad Váhom,UEFA
+1425,MFK Skalica,2000,Skalica,UEFA
+1426,FK Poprad,5700,Poprad,UEFA
+1427,FC DAC 1904,6100,Dunajská Streda,UEFA
+1428,FC ViOn,4000,Zlaté Moravce,UEFA
+1429,FK Púchov,6614,Púchov,UEFA
+1430,FK Senica,5070,Senica,UEFA
+1431,VSS Košice,10787,Košice,UEFA
+1432,MFK Ružomberok,5000,Ružomberok,UEFA
+1433,AS Tren?ín,4300,Tren?ín,UEFA
+1434,FC Senec,3264,Senec,UEFA
+1435,Slovan,13401,Bratislava,UEFA
+1436,Artmedia,7500,Bratislava,UEFA
+1437,MŠK Žilina,11313,Žilina,UEFA
+1438,FC Nitra,11384,Nitra,UEFA
+1439,ŠKP Dúbravka,10500,Bratislava,UEFA
+1440,Spartak,2709,Myjava,UEFA
+1441,Dukla,9881,Banska Bystrica,UEFA
+1442,1.FC Tatran,14000,Prešov,UEFA
+1443,Tatran,480,?ierny Balog,UEFA
+1444,FK Bodva,2500,Moldava nad Bodvou,UEFA
+1445,NK Maribor,12435,Maribor,UEFA
+1446,Nafta,3020,Lendava,UEFA
+1447,NK Domžale,2813,Domžale,UEFA
+1448,ND Gorica,3066,Nova Gorica,UEFA
+1449,NK Bežigrad,8211,Ljubljana,UEFA
+1450,NK Mura,5400,Murska Sobota,UEFA
+1451,NK Krško,1617,Krško,UEFA
+1452,NK Primorje,3000,Ajdovš?ina,UEFA
+1453,NK Olimpija,16038,Ljubljana,UEFA
+1454,CM Celje,13059,Celje,UEFA
+1455,"NK Ljubljana, Interblock",5000,Ljubljana,UEFA
+1456,Suwon Bluewings,43288,Suwon,AFC
+1457,Bucheon FC,35545,Bucheon,AFC
+1458,I’Park,53864,Busan,AFC
+1459,Changwon City,27085,Changwon,AFC
+1460,"Changwon City, Gyeongnam FC",15116,Changwon,AFC
+1461,Daegu FC,66422,Daegu,AFC
+1462,Citizen,41296,Daejeon,AFC
+1463,Sangmu,44118,Gwangju,AFC
+1464,Chunnam Dragons,13496,Gwangyang,AFC
+1465,United,20891,Incheon,AFC
+1466,Jeju United,35657,Seogwipo,AFC
+1467,Chonbuk,43348,Jeonju,AFC
+1468,Hyundai Horang-i,44466,Ulsan,AFC
+1469,FC Seoul,68476,Seoul,AFC
+1470,Steelers,18960,Pohang,AFC
+1471,Chunma,16146,Seongnam,AFC
+1472,Mipo Dockyard Dolphins,19665,Ulsan,AFC
+1473,Celta de Vigo,31800,Vigo,UEFA
+1474,Deportivo,32660,La Coru?a,UEFA
+1475,UE Lleida,13031,Lleida,UEFA
+1476,Sant Andreu,6563,Barcelona,UEFA
+1477,Barcelona,99354,Barcelona,UEFA
+1478,Rayo Vallecano,14708,Madrid,UEFA
+1479,Getafe CF,14478,Getafe,UEFA
+1480,Levante,26354,Valencia,UEFA
+1481,Sabadell FC,20000,Sabadell,UEFA
+1482,Terrassa FC,11500,Terrassa,UEFA
+1483,CD Logrones,16000,Logro?o,UEFA
+1484,Real II,7624,Valdebebas,UEFA
+1485,Real Sociedad,32076,San Sebastian,UEFA
+1486,Real Betis,60720,Sevilla,UEFA
+1487,Albacete Balompié,17524,Albacete,UEFA
+1488,Real Oviedo,30500,Oviedo,UEFA
+1489,San Roque,3512,Lepe,UEFA
+1490,Lucena CF,5046,Lucena,UEFA
+1491,CD Leganés,10958,Leganés,UEFA
+1492,Villareal CF,24890,Villarreal,UEFA
+1493,Real Zaragoza,34600,Zaragoza,UEFA
+1494,Barakaldo CF,7960,Barakaldo,UEFA
+1495,Deportivo,19840,Vitoria-Gasteiz,UEFA
+1496,Pontevedra CF,12000,Pontevedra,UEFA
+1497,Tenerife,22948,Santa Cruz de Tenerife,UEFA
+1498,Real Gijón,29538,Gijón,UEFA
+1499,Osasuna,18375,Pamplona,UEFA
+1500,Racing,22346,Santander,UEFA
+1501,Unión Estepona,3800,Estepona,UEFA
+1502,UD Las Palmas,31250,Las Palmas,UEFA
+1503,UD Salamanca,17341,Salamanca,UEFA
+1504,CD San Fernando,8000,San Fernando,UEFA
+1505,SD Eibar,6267,Eibar,UEFA
+1506,Hércules CF,29584,Alicante,UEFA
+1507,Real Valladolid,26512,Valladolid,UEFA
+1508,UCAM Murcia,13500,Murcia,UEFA
+1509,Malaga CF,28963,Málaga,UEFA
+1510,Elche,36017,Elche,UEFA
+1511,UD Almeria,15200,Almería,UEFA
+1512,Valencia,55000,Valencia,UEFA
+1513,Mirandés,6900,Miranda de Ebro,UEFA
+1514,CD Xerez,20522,Xerez,UEFA
+1515,Palencia CF,8100,Palencia,UEFA
+1516,Real Murcia,33045,Murcia,UEFA
+1517,Córdoba CF,16600,Cordoba,UEFA
+1518,Recreativo Huelva,20200,Huelva,UEFA
+1519,Granada CF,22524,Granada,UEFA
+1520,CD Badajoz,15598,Badajoz,UEFA
+1521,Cadiz CF,22087,Cádiz,UEFA
+1522,Real Madrid,85454,Madrid,UEFA
+1523,CD Mensajero,6000,Santa Cruz de La Palma,UEFA
+1524,Atlético Madrid,54907,Madrid,UEFA
+1525,Real Sociedad II,2500,Zubieta,UEFA
+1526,Real CD Mallorca,24262,Palma de Mallorca,UEFA
+1527,Barcelona,15276,Barcelona,UEFA
+1528,Atlético B,3376,Majadahonda,UEFA
+1529,UE Cornellà,1500,Barcelona,UEFA
+1530,CG Tarragona,12000,Tarragona,UEFA
+1531,UD Castellón de la Plana,16000,Castellón de la Plana,UEFA
+1532,CE Europa,8000,Barcelona,UEFA
+1533,CD Numancia,9700,Soria,UEFA
+1534,Sevilla,42982,Sevilla,UEFA
+1535,Espanyol,40500,Barcelona,UEFA
+1536,Athletic,53289,Bilbao,UEFA
+1537,RUC Irun,6344,Irun,UEFA
+1538,Atlético Madrid,67703,Madrid,UEFA
+1539,Örebro SK,13000,Örebro,UEFA
+1540,Elfsborg,16284,Borås,UEFA
+1541,BK Häcken,6500,Göteborg,UEFA
+1542,AIK,54329,Solna,UEFA
+1543,"IFK, GAIS",18416,Göteborg,UEFA
+1544,Gefle IF,6432,Gävle,UEFA
+1545,Kalmar FF,12182,Kalmar,UEFA
+1546,Östersunds FK,6028,Östersund,UEFA
+1547,"Sandvikens IF, Sandvikens AIK",2700,Sandviken,UEFA
+1548,"Lunds BK, Lunds BoiS",8560,Lund,UEFA
+1549,Åtvidabergs FF,8000,Åtvidaberg,UEFA
+1550,Landskrona BoIS,12500,Landskrona,UEFA
+1551,Östers,12200,Vaxjo,UEFA
+1552,GIF Sundsvall,8500,Sundsvall,UEFA
+1553,IFK Norrköping,19414,Norrköping,UEFA
+1554,Helsingborgs IF,17200,Helsingborgs,UEFA
+1555,Halmstads BK,15500,Halmstad,UEFA
+1556,Nyköpings BIS,6000,Nyköping,UEFA
+1557,Azalea,5000,Göteborg,UEFA
+1558,"Assyriska, Syrianska",6500,Södertälje,UEFA
+1559,Sollentuna FK,4500,Sollentuna,UEFA
+1560,Västerås SK,7044,Västerås,UEFA
+1561,Malmö FF,24000,Malmö,UEFA
+1562,"Hammarby, Djurgårdens",33000,Stockholm,UEFA
+1563,"IFK, City, United",7800,Eskilstuna,UEFA
+1564,"IFK, GAIS",43200,Göteborg,UEFA
+1565,FC St. Gallen,19694,Sankt Gallen,UEFA
+1566,Xamax,12000,Neuchâtel,UEFA
+1567,"FC Zürich, Grasshoppers",25000,Zurich,UEFA
+1568,FC Basel,38512,Basel,UEFA
+1569,Servette,30084,Geneve,UEFA
+1570,Young Boys,31783,Bern,UEFA
+1571,Lausanne-Sports,15850,Lousanne,UEFA
+1572,AC Bellinzona,6000,Bellinzona,UEFA
+1573,FC Aarau,9249,Aarau,UEFA
+1574,FC Biel-Bienne,5500,Biel/Bienne,UEFA
+1575,FC Winterthur,8550,Winterthur,UEFA
+1576,FC Thun,9500,Thun,UEFA
+1577,FC Luzern,17500,Lucerne,UEFA
+1578,FC Biel-Bienne,5200,Biel/Bienne,UEFA
+1579,FC Sion,20187,Sion,UEFA
+1580,"Al-Wahda, Al-Jaish, Al Majd",30000,Damascus,AFC
+1581,Hurriya,18000,Aleppo,AFC
+1582,Al-Ittihad,75000,Aleppo,AFC
+1583,Omayya,7500,Idlib,AFC
+1584,Tatung,20000,Taipei,AFC
+1585,Tatung,22000,Taipei,AFC
+1586,"Simba, Young Africans",60000,Dar Es Salaam,CAF
+1587,Chamchuri United,20000,Bangkok,AFC
+1588,Buriram United,23489,Buriram,AFC
+1589,Port FC,12308,Bangkok,AFC
+1590,Osotspa Saraburi,49749,Bangkok,AFC
+1591,Bangkok United,6600,Bangkok,AFC
+1592,TOT,5439,Bangkok,AFC
+1593,South Starworld Strikers,10000,Couva,CONCACAF
+1594,"Defence Force, Police FC, San Juan Jabloteh",23000,Port of Spain,CONCACAF
+1595,"South End, MSC, Police FC, W Connection",10000,Marabella,CONCACAF
+1596,Joe Public,6000,Macoya,CONCACAF
+1597,CAB,20000,Bizerte,CAF
+1598,"CA, EST",45000,Tunis,CAF
+1599,US Monastirienne,20000,Monastir,CAF
+1600,Étoile Sportive du Sahel,28000,Sousse,CAF
+1601,Orduspor,11024,Ordu,UEFA
+1602,"Gençlerbirli?i, Ankaragücü, Ankarasp",20070,Ankara,UEFA
+1603,Samsunspor,33919,Samsun,UEFA
+1604,"Manisaspor, Akhisar Belediyespor",16597,Manisa,UEFA
+1605,Adanaspor,16123,Adana,UEFA
+1606,Antalyaspor,32539,Antalya,UEFA
+1607,Bursaspor,25661,Bursa,UEFA
+1608,Beykozspor 1908,3500,Istanbul,UEFA
+1609,"Göztepe, Alt?nordu, Bornova Belediyespor",6049,Izmir,UEFA
+1610,Çaykur Rizespor,15558,Rize,UEFA
+1611,Bayrampa?a,3300,Istanbul,UEFA
+1612,IBFK,17319,Istanbul,UEFA
+1613,Gaziantepspor,35574,Gaziantep,UEFA
+1614,Gümü?hanespor,4000,Gümü?hane,UEFA
+1615,Maltepespor,5000,Istanbul,UEFA
+1616,Göztepe,51295,Izmir,UEFA
+1617,"Kayserispor, Erciyesspor",32864,Kayseri,UEFA
+1618,Kartalspor,7195,Istanbul,UEFA
+1619,Trabzonspor,41461,Trabzon,UEFA
+1620,?dman Yurdu,25534,Mersin,UEFA
+1621,Güngörenspor,7589,Istanbul,UEFA
+1622,Osmanl?spor,18029,Sincan,UEFA
+1623,Ku?adas?spor,8000,Kusadasi,UEFA
+1624,Kas?mpa?a Spor,14234,Istanbul,UEFA
+1625,Sivasspor,27532,Sivas,UEFA
+1626,Bursaspor,43877,Bursa,UEFA
+1627,Konyaspor,41981,Konya,UEFA
+1628,Galatasaray,52695,Istanbul,UEFA
+1629,Fenerbahçe,50509,Istanbul,UEFA
+1630,Be?ikta?,41903,Istanbul,UEFA
+1631,Eski?ehirspor,34930,Eski?ehir,UEFA
+1632,Yeni Malatyaspor,27044,Malatya,UEFA
+1633,Sakaryaspor,28154,Sakarya,UEFA
+1634,Sar?yer,5000,Istanbul,UEFA
+1635,Zeytinburnuspor,16000,Istanbul,UEFA
+1636,"Ahal, Altyn Asyr, A?gabat FK",20000,Ashgabat,AFC
+1637,"Revenue Authority, Police",45202,Kampala,CAF
+1638,FK Lviv,34512,Lviv,UEFA
+1639,Dnipro,31003,Dnipropetrovsk,UEFA
+1640,Shakhtar,51504,Donieck,UEFA
+1641,FK Lviv,3220,Dobromyl,UEFA
+1642,Dynamo,70050,Kiev,UEFA
+1643,Obolon,5103,Kiev,UEFA
+1644,Szachtar,25678,Donieck,UEFA
+1645,Meta?urh,11883,Zaporizhia,UEFA
+1646,FK Podilya,10000,Khmelnytskyi,UEFA
+1647,Zorja,22320,Luhansk,UEFA
+1648,FK Zakarpattia,12000,Uzhhorod,UEFA
+1649,Bukovyna,12000,Chernivtsi,UEFA
+1650,Nywa,12750,Ternopil,UEFA
+1651,Czornomorec,34164,Odesa,UEFA
+1652,Illichivets,12680,Mariupil,UEFA
+1653,Dynamo,16873,Kiev,UEFA
+1654,FK Sumy,26000,Sumy,UEFA
+1655,Tavria,19978,Simferopol,UEFA
+1656,Shakhtar,38613,Kharkiv,UEFA
+1657,Krywbas,29783,Krivyi Rih,UEFA
+1658,Dnipro,24381,Dnipropetrovsk,UEFA
+1659,Prykarpattya,15000,Ivano-Frankivsk,UEFA
+1660,Stal,12000,Altchevs'k,UEFA
+1661,Metalurg,31718,Donieck,UEFA
+1662,Karpaty,28051,Lviv,UEFA
+1663,Vorskla,24795,Poltava,UEFA
+1664,Al-Nasr,12000,Dubai,AFC
+1665,Al-Wahda,12000,Abu Dhabi,AFC
+1666,"Dubai, Al-Ahli",18000,Dubai,AFC
+1667,Al-Shabab,18000,Dubai,AFC
+1668,Baniyas SC,10000,Abu Dhabi,AFC
+1669,Emirates Club,4830,Ras Al-Khaimah,AFC
+1670,Al-Ain,25000,Al-Ain,AFC
+1671,"Sharjah, Al-Shabab",12000,Sharjah,AFC
+1672,Al-Jazira,42056,Abu Dhabi,AFC
+1673,Al-Ain,16000,Al-Ain,AFC
+1674,Al-Wasl,18000,Dubai,AFC
+1675,Rowdies,7500,Saint Petersburg,CONCACAF
+1676,Roadrunners,65000,San Antonio,CONCACAF
+1677,Rainbow Warriors,50000,Honolulu,CONCACAF
+1678,Chiefs,76416,Kansas City,CONCACAF
+1679,Cowboys,80000,Arlington,CONCACAF
+1680,DC United,20000,Washington,CONCACAF
+1681,Ducks,54000,Eugene,CONCACAF
+1682,Earthquakes,18000,San José,CONCACAF
+1683,LAFC,22000,Los Angeles,CONCACAF
+1684,Panthers,75412,Charlotte,CONCACAF
+1685,Demon Deacons,31500,Winston-Salem,CONCACAF
+1686,Dynamo,22039,Houston,CONCACAF
+1687,Penn State,106572,University Park,CONCACAF
+1688,Gators,88548,Gainsville,CONCACAF
+1689,Wildcats,53000,Manhattan,CONCACAF
+1690,Cowboys,53000,Stillwater,CONCACAF
+1691,Crimson Tide,101821,Tuscaloosa,CONCACAF
+1692,Santa Clara Broncos,10525,Santa Clara,CONCACAF
+1693,Terrapins,51802,College Park,CONCACAF
+1694,California Golden Bears,63186,Berkeley,CONCACAF
+1695,Badgers,80321,Madison,CONCACAF
+1696,Orlando City,61348,Orlando,CONCACAF
+1697,49ers,69732,San Francisco,CONCACAF
+1698,Rams,41200,Fort Collins,CONCACAF
+1699,Orange,49262,Syracuse,CONCACAF
+1700,Sounders,67000,Seattle,CONCACAF
+1701,Sporting,18467,Kansas City,CONCACAF
+1702,Tigers,81500,Clemson,CONCACAF
+1703,Seminoles,82300,Tallahassee,CONCACAF
+1704,Rapids,18086,Denver,CONCACAF
+1705,Rams,66000,St. Louis,CONCACAF
+1706,Owls,29419,Boca Raton,CONCACAF
+1707,Tigers,71168,Columbia,CONCACAF
+1708,Redskins,82000,Landover,CONCACAF
+1709,Browns,72300,Cleveland,CONCACAF
+1710,Lions,65000,Detroit,CONCACAF
+1711,Monarchs,20118,Norfolk,CONCACAF
+1712,Falcons,74228,Atlanta,CONCACAF
+1713,Revolution,68756,Foxboro,CONCACAF
+1714,Dolphins,65326,Miami,CONCACAF
+1715,Crimson,30323,Boston,CONCACAF
+1716,Steelers,65050,Pittsburgh,CONCACAF
+1717,Scarlet Knights,52454,Piscataway,CONCACAF
+1718,Huskies,70138,Seattle,CONCACAF
+1719,Thundering Herd,38227,Huntington,CONCACAF
+1720,Tigers,87451,Auburn,CONCACAF
+1721,Tar Heels,63000,Chapel Hill,CONCACAF
+1722,Mountaineers,24050,Boone,CONCACAF
+1723,Hawkeyes,70585,Iowa City,CONCACAF
+1724,Kansas Jayhawks,50071,Lawrence,CONCACAF
+1725,Aggies,102733,College Station,CONCACAF
+1726,"Rams, Trojans",93607,Los Angeles,CONCACAF
+1727,Packers,80750,Green Bay,CONCACAF
+1728,Hokies,65632,Blacksburg,CONCACAF
+1729,Cougars,63470,Provo,CONCACAF
+1730,UAB Blazers,71594,Birmingham,CONCACAF
+1731,49ers,68983,Santa Clara,CONCACAF
+1732,Tigers,59308,Memphis,CONCACAF
+1733,Eagles,69176,Philadelphia,CONCACAF
+1734,Strikers,20450,Fort Lauderdale,CONCACAF
+1735,Colts,63000,Indianapolis,CONCACAF
+1736,Ravens,70107,Baltimore,CONCACAF
+1737,Crew,19968,Columbus,CONCACAF
+1738,Baylor Bears,45140,Waco,CONCACAF
+1739,Cornhuskers,86047,Lincoln,CONCACAF
+1740,Hoosiers,52929,Bloomington,CONCACAF
+1741,"Atlanta United, Atlanta Falcons",71000,Atlanta,CONCACAF
+1742,Saints,73208,New Orleans,CONCACAF
+1743,"Jets, Giants",82566,East Rutherford,CONCACAF
+1744,Black Knights,38000,West Point,CONCACAF
+1745,Wolverines,107601,Ann Arbor,CONCACAF
+1746,Volunteers,102455,Knoxville,CONCACAF
+1747,"Bearcats, FC Cincinnati",38800,Cincinnati,CONCACAF
+1748,Tennessee Titans,69143,Nashville,CONCACAF
+1749,Fighting Irish,80795,South Bend,CONCACAF
+1750,Texans,71795,Houston,CONCACAF
+1751,Minnesota United,8500,Blaine,CONCACAF
+1752,Raiders,56057,Oakland,CONCACAF
+1753,Buckeyes,104944,Columbus,CONCACAF
+1754,Sooners,82112,Norman,CONCACAF
+1755,Orlando City,25500,Orlando,CONCACAF
+1756,Bengals,65515,Cincinnati,CONCACAF
+1757,DUSC,500,New York,CONCACAF
+1758,Tigers,27773,Princeton,CONCACAF
+1759,Timbers,21144,Portland,CONCACAF
+1760,"Chargers, Aztecs",70561,San Diego,CONCACAF
+1761,Buffalo Bills,75339,Buffalo,CONCACAF
+1762,Buccaneers,65857,Tampa Bay,CONCACAF
+1763,Razorbacks,72000,Fayetteville,CONCACAF
+1764,Red Bulls,25189,Harrison,CONCACAF
+1765,Beavers,45674,Corvallis,CONCACAF
+1766,Real,45017,Salt Lake City,CONCACAF
+1767,Real,20008,Sandy,CONCACAF
+1768,Bruins,92542,Pasadena,CONCACAF
+1769,Boilermakers,57236,West Lafayette,CONCACAF
+1770,Longhorns,100119,Austin,CONCACAF
+1771,Wildcats,47130,Evanston,CONCACAF
+1772,Bulldogs,92746,Athens,CONCACAF
+1773,Bears,63500,Chicago,CONCACAF
+1774,Spartans,75005,East Lansing,CONCACAF
+1775,Broncos,76125,Denver,CONCACAF
+1776,Galaxy,27000,Carson,CONCACAF
+1777,Sun Devils,73379,Tempe,CONCACAF
+1778,Union,18500,Chester,CONCACAF
+1779,Golden Gophers,50805,Minneapolis,CONCACAF
+1780,Cougars,40000,Houston,CONCACAF
+1781,Jaguars,67246,Jacksonville,CONCACAF
+1782,Tigers,102321,Baton Rouge,CONCACAF
+1783,San Antonio FC,8296,San Antonio,CONCACAF
+1784,Fire,20000,Bridgeview,CONCACAF
+1785,FC Dallas,21193,Frisco,CONCACAF
+1786,Rays,42735,Saint Petersburg,CONCACAF
+1787,Vikings,66665,Minneapolis,CONCACAF
+1788,Panthers,16324,Cedar Falls,CONCACAF
+1789,Cardinals,63400,Glendale,CONCACAF
+1790,Kickers,22000,Richmond,CONCACAF
+1791,North Carolina FC,10000,Cary,CONCACAF
+1792,Broncos,30200,Kalamazoo,CONCACAF
+1793,Gamecocks,80250,Columbia,CONCACAF
+1794,Bulldogs,61446,New Haven,CONCACAF
+1795,"Yankees, New York City",49642,New York,CONCACAF
+1796,Nacional,26500,Montevideo,CONMEBOL
+1797,CA Pe?arol,40005,Bañados de Carrasco,CONMEBOL
+1798,Rampla Juniors,6000,Montevideo,CONMEBOL
+1799,FK Buxoro,25520,Bukhara,AFC
+1800,Bunyodkor,34000,Tashkent,AFC
+1801,Pakhtakor FK,35000,Tashkent,AFC
+1802,Caracas FC,3500,Caracas,CONMEBOL
+1803,Zamora,30000,Barinas,CONMEBOL
+1804,UA Maracaibo,42000,Maracaibo,CONMEBOL
+1805,Estudiantes de Mérida,42200,Mérida,CONMEBOL
+1806,"CD Lara, Unión Lara",40312,Barquisimeto,CONMEBOL
+1807,Monagas,52000,Maturín,CONMEBOL
+1808,"Caracas FC,  Deportivo Italia",30000,Caracas,CONMEBOL
+1809,Deportivo Anzoátegui,37485,Puerto La Cruz,CONMEBOL
+1810,Mineros,41600,Puerto Ordaz,CONMEBOL
+1811,Deportivo Táchira,42500,San Cristóbal,CONMEBOL
+1812,Binh Duong,18250,Thu Dau Mot,AFC
+1813,"Th? Công, T&T, Hòa Phát, ACB",22500,Hanoi,AFC
+1814,"Sài Gòn FC, Thành ph?, Navibank Sài Gòn",25000,Ho Chi Minh City,AFC
+1815,Bangor City,3000,Bangor,UEFA
+1816,Cardiff,32898,Cardiff,UEFA
+1817,Swansea City,21088,Swansea,UEFA
+1818,"Scarlets, Llanelli RFC",14870,Llanelli,UEFA
+1819,Aberystwyth Town,5000,Aberystwyth,UEFA
+1820,Wrexham AFC,15850,Wrexham,UEFA

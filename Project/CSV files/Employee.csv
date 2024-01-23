@@ -1,0 +1,591 @@
+EmployeeID,nationality,name,age,Team name,Employee Type,position,appearances,goals,assists,minutes play
+1,England,Aaron Cresswell,32,West Ham,Player,Defender,20,0,1,701
+2,England,Aaron Lennon,35,Burnley,Player,Midfielder,16,1,1,730
+3,Australia,Aaron Mooy,32,Huddersfield ,Player,Midfielder,29,3,1,1137
+4,Wales,Aaron Ramsey,31,Arsenal,Player,Midfielder,28,4,6,638
+5,England,Aaron Rowe,22,Huddersfield ,Player,Forward,2,0,0,55
+6,England,Aaron Wan-Bissaka,24,Crystal Palace,Player,Midfielder,35,0,3,1530
+7,Morocco,Abdelhamid Sabiri,25,Huddersfield ,Player,Midfielder,2,0,0,49
+8,France,Abdoulaye Doucouré,29,Watford,Player,Midfielder,35,5,6,1496
+9,France,Aboubakar Kamara,27,Fulham,Player,Forward,13,3,0,219
+10,Venezuela,Adalberto Peñaranda Maestre,25,Watford,Player,Forward,0,0,0,0
+11,England,Adam Lallana,34,Liverpool,Player,Midfielder,13,0,0,276
+12,Italy,Adam Masina,28,Watford,Player,Defender,14,0,1,540
+13,England,Adam Smith,31,Bournemouth,Player,Defender,25,1,1,1022
+14,France,Adama Diakhaby,26,Huddersfield ,Player,Forward,12,0,0,206
+15,Spain,Adama Traore,26,Wolves,Player,Midfielder,29,1,1,575
+16,England,Ademola Lookman,25,Everton,Player,Forward,21,0,2,267
+17,Spain,Adrian,35,West Ham,Player,Goalkeeper,0,0,0,0
+18,Jamaica,Adrian Mariappa,36,Watford,Player,Defender,26,0,0,1080
+19,Portugal,Adrien Sebastian Perruchet Silva,33,Leicester ,Player,Midfielder,2,0,0,80
+20,England,Ainsley Maitland-Niles,25,Arsenal,Player,Midfielder,16,1,1,523
+21,Spain,Alberto Moreno,30,Liverpool,Player,Defender,2,0,0,65
+22,Serbia,Aleksandar Mitrović,28,Fulham,Player,Forward,37,11,3,1666
+23,Nigeria,Alex Iwobi,26,Arsenal,Player,Forward,35,3,6,1230
+24,England,Alex McCarthy,32,Southampton,Player,Goalkeeper,25,0,0,1080
+25,England,Alex Oxlade-Chamberlain,29,Liverpool,Player,Midfielder,2,0,0,0
+26,England,Alex Pritchard,29,Huddersfield ,Player,Midfielder,30,2,0,1100
+27,England,Alex Smithies,32,Cardiff ,Player,Goalkeeper,0,0,0,0
+28,Norway,Alexander Sørloth,26,Crystal Palace,Player,Forward,12,0,0,52
+29,France,Alexandre Lacazette,31,Arsenal,Player,Forward,35,13,8,1100
+30,Portugal,Alexandre Nascimento Costa Silva,25,West Ham,Player,Forward,1,0,0,17
+31,Chile,Alexis Sanchez,33,Man United,Player,Forward,20,1,3,490
+32,England,Alfie Jones,25,Southampton,Player,Defender,0,0,0,0
+33,England,Alfie Mawson,28,Fulham,Player,Defender,15,0,0,584
+34,England,Alfie Whiteman,24,Tottenham,Player,Goalkeeper,0,0,0,0
+35,England,Ali Koiki,22,Burnley,Player,Defender,0,0,0,0
+36,Iran,Alireza Jahanbakhsh,29,Brighton,Player,Forward,19,0,0,528
+37,Brazil,Alisson Becker,30,Liverpool,Player,Goalkeeper,38,0,0,1710
+38,Spain,Alvaro Morata,30,Chelsea,Player,Forward,16,5,0,413
+39,Spain,Ander Herrera,33,Man United,Player,Midfielder,22,2,3,787
+40,Portugal,Andre Gomes,29,Everton,Player,Midfielder,27,1,1,1014
+41,England,Andre Gray,31,Watford,Player,Forward,29,7,2,549
+42,Germany,André Schürrle,31,Fulham,Player,Midfielder,24,6,0,821
+43,Cameroon,Andre-Frank Zambo Anguissa,26,Fulham,Player,Midfielder,22,0,0,931
+44,Denmark,Andreas Christensen,26,Chelsea,Player,Defender,8,0,0,255
+45,Brazil,Andreas Pereira,26,Man United,Player,Midfielder,15,1,1,74
+46,Scotland,Andrew Robertson,28,Liverpool,Player,Defender,36,0,11,1620
+47,England,Andrew Surman,36,Bournemouth,Player,Midfielder,18,0,0,912
+48,Ukraine,Andriy Yarmolenko,33,West Ham,Player,Forward,9,2,0,190
+49,England,Andros Townsend,31,Crystal Palace,Player,Midfielder,38,6,4,1447
+50,England,Andy Carroll,33,West Ham,Player,Forward,12,0,0,274
+51,England,Angel Gomes,22,Man United,Player,Midfielder,2,0,0,0
+52,Italy,Angelo Ogbonna,34,West Ham,Player,Defender,24,1,1,914
+53,England,Angus Gunn,26,Southampton,Player,Goalkeeper,12,0,0,540
+54,England,Anthony Driscoll-Glennon,22,Burnley,Player,Defender,0,0,0,0
+55,France,Anthony Knockaert,30,Brighton,Player,Midfielder,30,2,6,850
+56,France,Anthony Martial,26,Man United,Player,Forward,27,10,2,880
+57,Italy,Antonio Barreca,27,Newcastle ,Player,Defender,1,0,0,4
+58,Germany,Antonio Rüdiger,29,Chelsea,Player,Defender,33,1,0,1524
+59,Ecuador,Antonio Valencia,37,Man United,Player,Defender,6,0,0,270
+60,Montenegro,Arijanet Muric,23,Man City,Player,Goalkeeper,0,0,0,0
+61,Iceland,Aron Einar Gunnarsson,33,Cardiff ,Player,Midfielder,28,1,1,1034
+62,France,Arthur Masuaku,28,West Ham,Player,Defender,23,0,1,934
+63,Poland,Artur Boruc,42,Bournemouth,Player,Goalkeeper,12,0,0,540
+64,England,Ashley Barnes,32,Burnley,Player,Forward,37,12,2,1093
+65,England,Ashley Westwood,32,Burnley,Player,Midfielder,34,2,7,1292
+66,England,Ashley Young,37,Man United,Player,Midfielder,30,2,2,1361
+67,Bosnia and Herzegovina,Asmir Begović,35,Bournemouth,Player,Goalkeeper,24,0,0,1080
+68,France,Aymeric Laporte,28,Man City,Player,Defender,35,3,3,1531
+69,Spain,Ayoze Perez,29,Newcastle ,Player,Forward,37,12,2,1403
+70,Mali,Bakary Sako,34,Crystal Palace,Player,Midfielder,4,0,0,17
+71,England,Ben Chilwell,25,Leicester ,Player,Defender,36,0,4,1620
+72,Wales,Ben Davies,29,Tottenham,Player,Defender,27,0,0,923
+73,England,Ben Foster,39,Watford,Player,Goalkeeper,38,0,0,1710
+74,England,Ben Gibson,29,Burnley,Player,Defender,1,1,0,0
+75,England,Ben Hamer,34,Huddersfield ,Player,Goalkeeper,7,0,0,270
+76,England,Ben Johnson,22,West Ham,Player,Forward,1,0,0,63
+77,England,Ben Mee,33,Burnley,Player,Defender,38,0,2,1710
+78,England,Ben White,25,Brighton,Player,Defender,0,0,0,0
+79,England,Ben Wilmot,23,Watford,Player,Defender,2,0,0,26
+80,France,Benjamin Mendy,28,Man City,Player,Defender,10,0,5,450
+81,Israel,Beram Kayal,34,Brighton,Player,Midfielder,18,1,1,440
+82,Brazil,Bernard Anício Caldeira Duarte,30,Everton,Player,Midfielder,34,1,3,1168
+83,Brazil,Bernardo,27,Brighton,Player,Defender,22,0,1,760
+84,Portugal,Bernardo Silva,28,Man City,Player,Midfielder,36,7,7,1383
+85,Germany,Bernd Leno,30,Arsenal,Player,Goalkeeper,32,0,0,1440
+86,England,Bobby Reid,29,Cardiff ,Player,Midfielder,27,5,2,697
+87,Republic of Ireland,Brian Murphy,39,Cardiff ,Player,Goalkeeper,0,0,0,0
+88,England,Bright Enobakhare,24,Wolves,Player,Forward,0,0,0,0
+89,Gabon,Bruno Écuélé Manga,34,Cardiff ,Player,Defender,38,0,1,1665
+90,Spain,Bruno Saltor Grau,42,Brighton,Player,Defender,14,0,1,602
+91,Turkey,Caglar Söyüncü,26,Leicester ,Player,Defender,6,0,0,180
+92,England,Callum Hudson-Odoi,21,Chelsea,Player,Midfielder,10,0,1,124
+93,Scotland,Callum Paterson,28,Cardiff ,Player,Defender,27,4,1,972
+94,England,Callum Roberts,25,Newcastle ,Player,Forward,0,0,0,0
+95,England,Callum Slattery,23,Southampton,Player,Midfielder,3,0,0,104
+96,England,Callum Wilson,30,Bournemouth,Player,Forward,30,14,9,1211
+97,England,Calum Chambers,27,Fulham,Player,Defender,31,2,0,1129
+98,England,Cameron John,23,Wolves,Player,Defender,0,0,0,0
+99,England,Carl Jenkinson,30,Arsenal,Player,Defender,3,0,0,0
+100,Colombia,Carlos Sánchez,36,West Ham,Player,Midfielder,7,0,0,120
+101,Portugal,Cedric Soares,31,Southampton,Player,Defender,18,1,2,843
+102,Turkey,Cenk Tosun,31,Everton,Player,Forward,25,3,3,514
+103,Spain,Cesar Azpilicueta,33,Chelsea,Player,Defender,38,1,5,1710
+104,Spain,Cesc Fabregas,35,Chelsea,Player,Midfielder,6,0,0,102
+105,England,Charlie Austin,33,Southampton,Player,Forward,25,2,2,526
+106,England,Charlie Daniels,36,Bournemouth,Player,Defender,21,1,0,780
+107,England,Charlie Taylor,29,Burnley,Player,Defender,38,0,1,1604
+108,Senegal,Cheikhou Kouyaté,32,Crystal Palace,Player,Midfielder,31,0,2,1032
+109,Germany,Chris Löwe,33,Huddersfield ,Player,Defender,29,0,2,1124
+110,Wales,Chris Mepham,24,Bournemouth,Player,Defender,13,0,1,413
+111,England,Chris Smalling,32,Man United,Player,Defender,24,1,0,990
+112,New Zealand,Chris Wood,30,Burnley,Player,Forward,38,10,2,1252
+113,Ghana,Christian Atsu Twasam,30,Newcastle ,Player,Midfielder,28,1,0,777
+114,Belgium,Christian Benteke,31,Crystal Palace,Player,Forward,16,1,1,287
+115,Denmark,Christian Eriksen,30,Tottenham,Player,Midfielder,35,8,12,1315
+116,Austria,Christian Fuchs,36,Leicester ,Player,Defender,3,0,0,116
+117,Belgium,Christian Kabasele,31,Watford,Player,Defender,21,0,0,630
+118,Germany,Christopher Schindler,32,Huddersfield ,Player,Defender,37,1,0,1620
+119,Republic of Ireland,Ciaran Clark,33,Newcastle ,Player,Defender,11,3,0,441
+120,Chile,Claudio Bravo,39,Man City,Player,Goalkeeper,0,0,0,0
+121,Germany,Collin Quaner,31,Huddersfield ,Player,Forward,2,0,0,28
+122,England,Connor Wickham,29,Crystal Palace,Player,Forward,6,0,1,12
+123,England,Conor Coady,29,Wolves,Player,Midfielder,38,0,0,1710
+124,Republic of Ireland,Conor Coventry,22,West Ham,Player,Midfielder,0,0,0,0
+125,Northern Ireland,Craig Cathcart,33,Watford,Player,Defender,36,3,0,1538
+126,England,Curtis Jones,21,Liverpool,Player,Midfielder,0,0,0,0
+127,Republic of Ireland,Cyrus Christie,30,Fulham,Player,Defender,28,0,1,890
+128,England,Dale Stephens,33,Brighton,Player,Midfielder,30,1,1,1296
+129,England,Dan Burn,30,Brighton,Player,Defender,0,0,0,0
+130,England,Dan Gosling,32,Bournemouth,Player,Midfielder,25,2,1,826
+131,Ghana,Daniel Amartey,27,Leicester ,Player,Midfielder,9,0,0,333
+132,England,Daniel Sturridge,33,Liverpool,Player,Forward,18,2,1,344
+133,USA,Daniel Williams,33,Huddersfield ,Player,Midfielder,5,0,0,80
+134,Brazil,Danilo,31,Man City,Player,Defender,11,1,0,356
+135,England,Danny Drinkwater,32,Chelsea,Player,Midfielder,0,0,0,0
+136,England,Danny Ings,30,Southampton,Player,Forward,24,7,3,746
+137,England,Danny Rose,32,Tottenham,Player,Defender,26,0,3,837
+138,England,Danny Simpson,35,Leicester ,Player,Defender,6,0,0,265
+139,Wales,Danny Ward,29,Leicester ,Player,Goalkeeper,0,0,0,0
+140,England,Danny Ward,31,Cardiff ,Player,Forward,14,1,0,194
+141,England,Danny Welbeck,31,Arsenal,Player,Forward,8,1,1,100
+142,Netherlands,Daryl Janmaat,33,Watford,Player,Defender,18,0,2,685
+143,England,David Brooks,25,Bournemouth,Player,Forward,30,7,5,989
+144,England,David Button,33,Brighton,Player,Goalkeeper,4,0,0,180
+145,Spain,David de Gea,31,Man United,Player,Goalkeeper,38,0,0,1710
+146,Canada,David Junior Hoilett,32,Cardiff ,Player,Forward,32,3,1,1134
+147,Brazil,David Luiz,35,Chelsea,Player,Defender,36,3,2,1530
+148,Spain,David Silva,36,Man City,Player,Midfielder,33,6,8,1323
+149,Italy,Davide Zappacosta,30,Chelsea,Player,Defender,4,0,0,90
+150,Colombia,Davinson Sánchez,26,Tottenham,Player,Defender,23,1,1,1070
+151,Netherlands,Davy Pröpper,31,Brighton,Player,Midfielder,30,1,1,1180
+152,USA,DeAndre Yedlin,29,Newcastle ,Player,Defender,29,1,2,1162
+153,Republic of Ireland,Declan Rice,23,West Ham,Player,Midfielder,34,2,0,1565
+154,Croatia,Dejan Lovren,33,Liverpool,Player,Defender,13,1,0,445
+155,England,Dele Alli,26,Tottenham,Player,Midfielder,25,5,3,1072
+156,England,Demarai Gray,26,Leicester ,Player,Midfielder,34,4,1,923
+157,England,Demeaco Duhaney,24,Huddersfield ,Player,Defender,1,0,0,0
+158,Belgium,Denis Odoi,34,Fulham,Player,Defender,31,0,1,1440
+159,Spain,Denis Suárez,28,Arsenal,Player,Midfielder,4,0,0,38
+160,Spain,Diego Rico,29,Bournemouth,Player,Defender,12,0,0,459
+161,Portugal,Diogo Dalot,23,Man United,Player,Defender,16,0,2,490
+162,Portugal,Diogo José Teixeira da Silva,25,Wolves,Player,Midfielder,33,9,5,1161
+163,Belgium,Divock Origi,27,Liverpool,Player,Forward,12,3,1,190
+164,Portugal,Domingos Quina,22,Watford,Player,Midfielder,8,1,0,118
+165,England,Dominic Calvert-Lewin,25,Everton,Player,Forward,35,6,2,751
+166,England,Dominic Solanke,25,Bournemouth,Player,Forward,10,0,1,176
+167,England,Dwight McNeil,22,Burnley,Player,Forward,21,3,5,658
+168,Belgium,Eden Hazard,31,Chelsea,Player,Midfielder,37,16,15,1399
+169,Brazil,Ederson,29,Man City,Player,Goalkeeper,38,0,1,1710
+170,England,Edward Nketiah,23,Arsenal,Player,Forward,5,1,0,58
+171,Congo DR,Elias Kachunga,30,Huddersfield ,Player,Forward,20,0,0,570
+172,USA,Emerson Hyndman,26,Bournemouth,Player,Midfielder,1,0,0,37
+173,Italy,Emerson Palmieri,28,Chelsea,Player,Defender,10,0,0,300
+174,England,Emile Smith Rowe,22,Arsenal,Player,Midfielder,0,0,0,0
+175,Argentina,Emiliano Martínez,30,Arsenal,Player,Goalkeeper,0,0,0,0
+176,Ivory Coast,Eric Bailly,28,Man United,Player,Defender,12,0,0,288
+177,England,Eric Dier,28,Tottenham,Player,Midfielder,20,3,0,836
+178,Germany,Erik Durm,30,Huddersfield ,Player,Defender,28,0,1,1183
+179,Argentina,Erik Lamela,30,Tottenham,Player,Midfielder,19,4,2,478
+180,Wales,Ethan Ampadu,22,Chelsea,Player,Midfielder,0,0,0,0
+181,France,Étienne Capoue,34,Watford,Player,Midfielder,33,1,3,1429
+182,Paraguay,Fabián Balbuena,31,West Ham,Player,Defender,23,1,0,1080
+183,England,Fabian Delph,32,Man City,Player,Midfielder,11,0,1,459
+184,Switzerland,Fabian Schär,30,Newcastle ,Player,Defender,24,4,1,829
+185,Brazil,Fabinho,29,Liverpool,Player,Midfielder,28,1,2,962
+186,Spain,Fabricio Martín Agosto Ramírez,34,Fulham,Player,Goalkeeper,2,0,0,90
+187,Argentina,Faustino Marcos Alberto Rojo,32,Man United,Player,Defender,5,0,0,0
+188,Argentina,Federico Fernández,33,Newcastle ,Player,Defender,19,0,1,877
+189,Brazil,Felipe Anderson,29,West Ham,Player,Midfielder,36,9,4,1615
+190,Brazil,Fernandinho,37,Man City,Player,Midfielder,29,1,3,1095
+191,Spain,Fernando Llorente Torres,37,Tottenham,Player,Forward,20,1,4,175
+192,Switzerland,Florent Hadergjonaj,28,Huddersfield ,Player,Defender,24,0,0,829
+193,France,Florian Lejeune,31,Newcastle ,Player,Defender,12,0,0,540
+194,Romania,Florin Andone,29,Brighton,Player,Forward,23,3,0,458
+195,Togo,Floyd Ayité,33,Fulham,Player,Midfielder,16,1,0,169
+196,Mali,Fousseni Diabaté,27,Leicester ,Player,Midfielder,1,0,0,55
+197,England,Fraser Forster,34,Southampton,Player,Goalkeeper,1,0,0,90
+198,Brazil,Fred,29,Man United,Player,Midfielder,17,1,1,468
+199,England,Freddie Woodman,25,Newcastle ,Player,Goalkeeper,0,0,0,0
+200,Brazil,Gabriel Jesus,25,Man City,Player,Forward,29,7,3,317
+201,Cameroon,Gaëtan Bong Songo,34,Brighton,Player,Defender,22,0,0,1085
+202,England,Gary Cahill,36,Chelsea,Player,Defender,2,0,0,21
+203,England,Gary Madine,32,Cardiff ,Player,Forward,5,0,0,15
+204,England,George Marsh,23,Tottenham,Player,Midfielder,0,0,0,0
+205,France,Georges-Kevin N'Koudou Mbida,27,Tottenham,Player,Forward,1,0,1,4
+206,Netherlands,Georginio Wijnaldum,31,Liverpool,Player,Midfielder,35,3,0,1322
+207,Spain,Gerard Deulofeu,28,Watford,Player,Forward,30,10,5,1133
+208,England,Glenn Murray,39,Brighton,Player,Forward,38,13,1,1130
+209,Argentina,Gonzalo Higuain,34,Chelsea,Player,Forward,14,5,0,596
+210,England,Grady Diangana,24,West Ham,Player,Midfielder,17,0,1,278
+211,Switzerland,Granit Xhaka,30,Arsenal,Player,Midfielder,29,4,2,1185
+212,Republic of Ireland,Greg Cunningham,31,Cardiff ,Player,Defender,7,0,0,180
+213,Iceland,Gylfi Sigurdsson,33,Everton,Player,Midfielder,38,13,6,1532
+214,England,Hamza Choudhury,25,Leicester ,Player,Midfielder,9,0,0,288
+215,Republic of Ireland,Harry Arter,32,Cardiff ,Player,Midfielder,25,0,1,822
+216,England,Harry Kane,29,Tottenham,Player,Forward,28,17,4,1361
+217,England,Harry Maguire,29,Leicester ,Player,Defender,31,3,0,1249
+218,England,Harry Winks,26,Tottenham,Player,Midfielder,26,1,0,759
+219,England,Harvey Barnes,24,Leicester ,Player,Midfielder,16,1,2,406
+220,Norway,Håvard Nordtveit,32,Fulham,Player,Midfielder,5,0,1,271
+221,Spain,Hector Bellerin,27,Arsenal,Player,Defender,19,0,5,653
+222,Portugal,Hélder Wander Sousa Azevedo Costa,28,Wolves,Player,Midfielder,25,1,2,688
+223,Armenia,Henrikh Mkhitaryan,33,Arsenal,Player,Midfielder,25,6,4,993
+224,South Korea,Heung-Min Son,30,Tottenham,Player,Forward,31,12,6,887
+225,Brazil,Heurelho da Silva Gomes,41,Watford,Player,Goalkeeper,0,0,0,0
+226,France,Hugo Lloris,35,Tottenham,Player,Goalkeeper,33,0,0,1350
+227,Belgium,Ibrahima Cissé,28,Fulham,Player,Midfielder,3,0,0,78
+228,Senegal,Idrissa Gueye,33,Everton,Player,Midfielder,33,0,2,1418
+229,Germany,İlkay Gündoğan,32,Man City,Player,Midfielder,31,6,3,1150
+230,England,Isaac Hayden,27,Newcastle ,Player,Midfielder,25,1,4,982
+231,Belgium,Isaac Mbenza,26,Huddersfield ,Player,Forward,22,1,1,392
+232,Nigeria,Isaac Success,26,Watford,Player,Forward,30,1,1,576
+233,France,Issa Diop,25,West Ham,Player,Defender,33,1,0,1440
+234,Portugal,Ivan Ricardo Neves Abreu Cavaleiro,29,Wolves,Player,Forward,23,3,1,352
+235,England,Jack Cork,33,Burnley,Player,Midfielder,37,1,2,1620
+236,England,Jack Simpson,25,Bournemouth,Player,Defender,6,0,0,163
+237,England,Jack Stephens,28,Southampton,Player,Defender,24,1,0,881
+238,England,Jack Wilshere,30,West Ham,Player,Midfielder,8,0,1,208
+239,England,Jacob Murphy,27,Newcastle ,Player,Midfielder,9,0,1,133
+240,Netherlands,Jaïro Riedewald,26,Crystal Palace,Player,Defender,0,0,0,0
+241,England,Jamaal Lascelles,28,Newcastle ,Player,Defender,32,0,1,1440
+242,England,James Garner,21,Man United,Player,Defender,1,0,0,0
+243,England,James Maddison,25,Leicester ,Player,Midfielder,36,7,7,1315
+244,Scotland,James McArthur,35,Crystal Palace,Player,Midfielder,38,3,6,1565
+245,Republic of Ireland,James McCarthy,31,Everton,Player,Midfielder,1,0,0,0
+246,England,James Milner,36,Liverpool,Player,Midfielder,31,5,4,1139
+247,England,James Tarkowski,29,Burnley,Player,Defender,35,3,1,1467
+248,England,James Tomkins,33,Crystal Palace,Player,Defender,29,1,1,1423
+249,England,James Ward-Prowse,27,Southampton,Player,Midfielder,26,7,0,1000
+250,England,Jamie Sterry,26,Newcastle ,Player,Defender,0,0,0,0
+251,England,Jamie Vardy,35,Leicester ,Player,Forward,34,18,4,1317
+252,Poland,Jan Bednarek,26,Southampton,Player,Defender,25,0,1,1025
+253,Belgium,Jan Vertonghen,35,Tottenham,Player,Defender,22,1,0,1031
+254,Denmark,Jannik Vestergaard,30,Southampton,Player,Defender,23,0,0,900
+255,England,Jason Puncheon,36,Huddersfield ,Player,Midfielder,11,0,0,143
+256,England,Jason Steele,32,Brighton,Player,Goalkeeper,0,0,0,0
+257,Mexico,Javier Hernandez,34,West Ham,Player,Forward,25,7,1,641
+258,Spain,Javier Manquillo,28,Newcastle ,Player,Defender,18,0,3,594
+259,Republic of Ireland,Jayson Molumby,23,Brighton,Player,Midfielder,0,0,0,0
+260,Wales,Jazz Richards,31,Cardiff ,Player,Defender,4,0,0,76
+261,Ivory Coast,Jean Michau00ebl Seri,31,Fulham,Player,Midfielder,32,1,2,1140
+262,Republic of Ireland,Jeff Hendrick,30,Burnley,Player,Midfielder,32,3,0,1171
+263,Colombia,Jefferson Lerma,28,Bournemouth,Player,Midfielder,30,2,0,1192
+264,Ghana,Jeffrey Schlupp,29,Crystal Palace,Player,Defender,30,4,1,816
+265,England,Jermain Defoe,40,Bournemouth,Player,Forward,4,0,0,21
+266,England,Jesse Lingard,29,Man United,Player,Midfielder,27,4,2,705
+267,Portugal,João Moutinho,36,Wolves,Player,Midfielder,38,1,8,1508
+268,England,Joe Bennett,32,Cardiff ,Player,Defender,30,0,1,1499
+269,England,Joe Bryan,29,Fulham,Player,Defender,28,0,1,1136
+270,England,Joe Daniel Tupper,24,Crystal Palace,Player,Goalkeeper,0,0,0,0
+271,England,Joe Gomez,25,Liverpool,Player,Defender,16,0,0,567
+272,England,Joe Hart,35,Burnley,Player,Goalkeeper,19,0,0,900
+273,England,Joe Powell,24,West Ham,Player,Forward,0,0,0,0
+274,England,Joe Ralls,29,Cardiff ,Player,Midfielder,28,0,0,1112
+275,England,Joel Coleman,27,Huddersfield ,Player,Goalkeeper,1,0,0,90
+276,Cameroon,Joel Matip,31,Liverpool,Player,Defender,22,1,0,721
+277,England,Joel Ward,32,Crystal Palace,Player,Defender,7,1,0,360
+278,Iceland,Johann Berg Guðmunds­son,32,Burnley,Player,Midfielder,29,3,6,901
+279,England,John Ruddy,36,Wolves,Player,Goalkeeper,1,0,0,0
+280,England,John Stones,28,Man City,Player,Defender,24,0,0,794
+281,Slovenia,Jon Gorenc Stankovič,26,Huddersfield ,Player,Defender,11,1,0,500
+282,Denmark,Jonas Lössl,33,Huddersfield ,Player,Goalkeeper,31,0,1,1350
+283,England,Jonathan Hogg,33,Huddersfield ,Player,Midfielder,29,0,1,1083
+284,Republic of Ireland,Jonathan Walters,39,Burnley,Player,Forward,0,0,0,0
+285,England,Jonjo Shelvey,30,Newcastle ,Player,Midfielder,16,1,1,541
+286,England,Jonjoe Kenny,25,Everton,Player,Defender,10,0,1,377
+287,Spain,Jonny,28,Wolves,Player,Defender,33,1,1,1511
+288,Northern Ireland,Jonny Evans,34,Leicester ,Player,Defender,24,1,0,921
+289,Ghana,Jordan Ayew,31,Crystal Palace,Player,Forward,20,1,2,570
+290,England,Jordan Henderson,32,Liverpool,Player,Midfielder,32,1,3,1058
+291,England,Jordan Pickford,28,Everton,Player,Goalkeeper,38,0,0,1710
+292,England,Jordon Ibe,26,Bournemouth,Player,Midfielder,19,1,1,461
+293,Italy,Jorginho,30,Chelsea,Player,Midfielder,37,2,0,1544
+294,Greece,José Holebas,38,Watford,Player,Defender,28,3,6,1170
+295,Colombia,Jose Izquierdo,30,Brighton,Player,Forward,15,0,1,429
+296,Spain,Joselu,32,Newcastle ,Player,Forward,16,2,0,278
+297,England,Joseph Willock,23,Arsenal,Player,Midfielder,2,0,0,64
+298,England,Josh Benson,22,Burnley,Player,Midfielder,0,0,0,0
+299,England,Josh Knight,25,Leicester ,Player,Defender,0,0,0,0
+300,England,Josh Murphy,27,Cardiff ,Player,Forward,29,3,2,702
+301,Norway,Joshua King,30,Bournemouth,Player,Forward,35,12,3,1411
+302,England,Joshua Sims,25,Southampton,Player,Midfielder,7,0,1,70
+303,Argentina,Juan Foyth,24,Tottenham,Player,Defender,12,1,0,480
+304,Spain,Juan Mata,34,Man United,Player,Midfielder,22,3,2,461
+305,Argentina,Julián Speroni,43,Crystal Palace,Player,Goalkeeper,1,0,0,90
+306,Netherlands,Juninho Bacuna,25,Huddersfield ,Player,Midfielder,21,1,0,692
+307,England,Junior Stanislas,32,Bournemouth,Player,Midfielder,23,2,3,468
+308,Netherlands,Jürgen Locadia,28,Brighton,Player,Forward,26,2,0,637
+309,England,Kadeem Harris,29,Cardiff ,Player,Midfielder,13,1,0,233
+310,England,Karl Darlow,32,Newcastle ,Player,Goalkeeper,0,0,0,0
+311,England,Karlan Ahearne-Grant,24,Huddersfield ,Player,Forward,13,4,0,543
+312,Denmark,Kasper Schmeichel,35,Leicester ,Player,Goalkeeper,38,0,0,1710
+313,England,Kayne Ramsey,22,Southampton,Player,Midfielder,1,0,0,0
+314,England,Kazaiah Sterling,23,Tottenham,Player,Forward,0,0,0,0
+315,Nigeria,Kelechi Iheanacho,26,Leicester ,Player,Forward,30,1,3,518
+316,England,Kelland Watts,23,Newcastle ,Player,Midfielder,0,0,0,0
+317,Sweden,Ken Sema,29,Watford,Player,Midfielder,17,1,2,454
+318,Denmark,Kenneth Dahrup Zohorè,28,Cardiff ,Player,Forward,19,1,1,358
+319,Spain,Kepa Arrizabalaga,28,Chelsea,Player,Goalkeeper,36,0,0,1620
+320,Belgium,Kevin De Bruyne,31,Man City,Player,Midfielder,19,2,2,497
+321,Republic of Ireland,Kevin Long,32,Burnley,Player,Defender,6,0,1,423
+322,Scotland,Kevin McDonald,33,Fulham,Player,Midfielder,15,0,0,443
+323,South Korea,Ki Sung-yueng,33,Newcastle ,Player,Midfielder,18,0,1,478
+324,England,Kieran Dowell,25,Everton,Player,Midfielder,0,0,0,0
+325,England,Kieran Trippier,32,Tottenham,Player,Defender,27,1,3,1090
+326,Spain,Kiko Femenía,31,Watford,Player,Midfielder,29,1,1,1034
+327,Greece,Konstantinos Mavropanos,24,Arsenal,Player,Defender,4,0,0,104
+328,England,Kortney Hause,27,Wolves,Player,Defender,0,0,0,0
+329,France,Kurt Zouma,28,Everton,Player,Defender,32,2,2,1260
+330,England,Kyle Taylor,23,Bournemouth,Player,Midfielder,0,0,0,0
+331,England,Kyle Walker,32,Man City,Player,Defender,33,1,1,1532
+332,England,Kyle Walker-Peters,25,Tottenham,Player,Defender,6,0,3,102
+333,Belgium,Laurent Depoitre,33,Huddersfield ,Player,Forward,23,0,1,613
+334,France,Laurent Koscielny,37,Arsenal,Player,Defender,17,3,0,844
+335,Serbia,Lazar Marković,28,Fulham,Player,Midfielder,1,0,0,44
+336,Belgium,Leander Dendoncker,27,Wolves,Player,Midfielder,19,2,0,834
+337,Curaçao,Leandro Bacuna,31,Cardiff ,Player,Midfielder,11,0,0,252
+338,England,Lee Grant,39,Man United,Player,Goalkeeper,0,0,0,0
+339,England,Lee Peltier,35,Cardiff ,Player,Defender,20,0,0,1021
+340,England,Leighton Baines,37,Everton,Player,Defender,6,0,0,235
+341,Nigeria,Leon Balogun,34,Brighton,Player,Defender,8,1,0,282
+342,Brazil,Leonardo Bonatini Lohner Maia,28,Wolves,Player,Forward,7,0,1,67
+343,Germany,Leroy Sané,26,Man City,Player,Midfielder,31,10,10,843
+344,England,Lewis Cass,22,Newcastle ,Player,Defender,0,0,0,0
+345,England,Lewis Cook,25,Bournemouth,Player,Midfielder,13,0,0,340
+346,England,Lewis Dunk,30,Brighton,Player,Defender,36,2,1,1603
+347,France,Loïc Damour,31,Cardiff ,Player,Midfielder,2,0,0,17
+348,Germany,Loris Karius,29,Liverpool,Player,Goalkeeper,0,0,0,0
+349,USA,Luca de la Torre,24,Fulham,Player,Midfielder,0,0,0,0
+350,France,Lucas Digne,29,Everton,Player,Defender,35,4,4,1479
+351,Brazil,Lucas Moura,30,Tottenham,Player,Midfielder,32,10,0,1087
+352,Spain,Lucas Perez,34,West Ham,Player,Forward,15,3,0,181
+353,Uruguay,Lucas Torreira,26,Arsenal,Player,Midfielder,34,2,2,1146
+354,Argentina,Luciano Vietto,28,Fulham,Player,Forward,20,1,4,434
+355,Serbia,Luka Milivojević,31,Crystal Palace,Player,Midfielder,38,12,2,1710
+356,England,Luke Amos,25,Tottenham,Player,Midfielder,1,0,0,2
+357,England,Luke Dreher,23,Crystal Palace,Player,Midfielder,1,0,0,0
+358,England,Luke Shaw,27,Man United,Player,Defender,29,1,4,1422
+359,France,Lys Mousset,26,Bournemouth,Player,Forward,24,1,0,249
+360,Netherlands,Maarten Stekelenburg,40,Everton,Player,Goalkeeper,0,0,0,0
+361,France,Mamadou Sakho,32,Crystal Palace,Player,Defender,27,0,0,1247
+362,Italy,Manolo Gabbiadini,30,Southampton,Player,Forward,12,1,0,217
+363,Argentina,Manuel Lanzini,29,West Ham,Player,Midfielder,10,1,1,321
+364,England,Marc Albrighton,32,Leicester ,Player,Midfielder,27,2,2,829
+365,England,Marc Guehi,22,Chelsea,Player,Defender,0,0,0,0
+366,Spain,Marc Navarro Ceciliano,27,Watford,Player,Defender,2,0,0,84
+367,England,Marc Pugh,35,Bournemouth,Player,Midfielder,0,0,0,0
+368,Spain,Marcos Alonso,31,Chelsea,Player,Defender,31,2,4,1423
+369,England,Marcus Bettinelli,30,Fulham,Player,Goalkeeper,7,0,0,360
+370,England,Marcus Rashford,25,Man United,Player,Forward,33,10,6,1069
+371,Gabon,Mario Lemina,29,Southampton,Player,Midfielder,21,1,1,852
+372,England,Mark Noble,35,West Ham,Player,Midfielder,31,5,5,1161
+373,Republic of Ireland,Mark Travers,23,Bournemouth,Player,Goalkeeper,2,0,0,90
+374,Austria,Marko Arnautović,33,West Ham,Player,Forward,28,10,4,917
+375,Austria,Markus Suttner,35,Brighton,Player,Defender,0,0,0,0
+376,Belgium,Marouane Fellaini,34,Man United,Player,Midfielder,14,0,1,527
+377,Slovakia,Martin Dúbravka,33,Newcastle ,Player,Goalkeeper,38,0,0,1710
+378,England,Martin Kelly,32,Crystal Palace,Player,Defender,13,0,0,450
+379,Spain,Martín Montoya,31,Brighton,Player,Defender,25,0,1,990
+380,England,Mason Greenwood,21,Man United,Player,Midfielder,3,0,0,10
+381,England,Mason Holgate,26,Everton,Player,Defender,5,0,0,137
+382,Czech Republic,Matěj Vydra,30,Burnley,Player,Forward,13,1,1,220
+383,Croatia,Mateo Kovačić,28,Chelsea,Player,Midfielder,32,0,2,775
+384,Australia,Mathew Ryan,30,Brighton,Player,Goalkeeper,34,0,0,1530
+385,Denmark,Mathias Jørgensen,32,Huddersfield ,Player,Defender,24,3,1,900
+386,England,Matt Butcher,25,Bournemouth,Player,Midfielder,0,0,0,0
+387,Republic of Ireland,Matt Doherty,30,Wolves,Player,Defender,38,4,5,1590
+388,Scotland,Matt Ritchie,33,Newcastle ,Player,Midfielder,36,2,8,1383
+389,England,Matt Targett,27,Southampton,Player,Defender,16,1,3,702
+390,Italy,Matteo Darmian,32,Man United,Player,Defender,6,0,0,90
+391,France,Matteo Guendouzi,23,Arsenal,Player,Midfielder,33,0,0,1172
+392,England,Matthew Connolly,35,Cardiff ,Player,Defender,0,0,0,0
+393,England,Matthew Lowton,33,Burnley,Player,Defender,21,0,0,938
+394,England,Matty Daly,21,Huddersfield ,Player,Midfielder,2,0,0,24
+395,England,Max Harrison Sanders,23,Brighton,Player,Midfielder,0,0,0,0
+396,England,Max Kilman,25,Wolves,Player,Defender,1,0,0,0
+397,Germany,Max Meyer,27,Crystal Palace,Player,Midfielder,29,1,2,696
+398,France,Maxime Le Marchand,33,Fulham,Player,Defender,26,0,1,1080
+399,Japan,Maya Yoshida,34,Southampton,Player,Defender,17,0,1,720
+400,Germany,Mesut Özil,34,Arsenal,Player,Midfielder,24,5,2,602
+401,England,Michael Keane,29,Everton,Player,Defender,33,1,2,1620
+402,Republic of Ireland,Michael Obafemi,22,Southampton,Player,Forward,6,1,1,70
+403,England,Michail Antonio,32,West Ham,Player,Midfielder,33,6,4,1101
+404,Netherlands,Michel Vorm,39,Tottenham,Player,Goalkeeper,2,0,0,90
+405,Belgium,Michy Batshuayi,29,Crystal Palace,Player,Forward,11,5,0,388
+406,Paraguay,Miguel Almirón,28,Newcastle ,Player,Midfielder,10,0,0,358
+407,Uruguay,Miguel Ángel Britos Cabrera,37,Watford,Player,Defender,3,0,0,172
+408,Senegal,Mohamed Diamé,35,Newcastle ,Player,Midfielder,29,0,0,1205
+409,Egypt,Mohamed Elneny,30,Arsenal,Player,Midfielder,8,0,0,167
+410,Norway,Mohamed Elyounoussi,28,Southampton,Player,Midfielder,16,0,0,397
+411,Egypt,Mohamed Salah,30,Liverpool,Player,Forward,38,22,8,1570
+412,England,Morgan Gibbs-White,22,Wolves,Player,Midfielder,26,0,1,221
+413,France,Morgan Schneiderlin,32,Everton,Player,Midfielder,14,0,1,360
+414,Belgium,Moussa Dembele,35,Tottenham,Player,Midfielder,10,0,0,355
+415,France,Moussa Sissoko,33,Tottenham,Player,Midfielder,29,0,3,1149
+416,France,N'Golo Kanté,31,Chelsea,Player,Midfielder,36,4,4,1517
+417,Guinea,Naby Keïta,27,Liverpool,Player,Midfielder,25,2,1,663
+418,Spain,Nacho Monreal,36,Arsenal,Player,Defender,22,1,3,1080
+419,France,Nampalys Mendy,30,Leicester ,Player,Midfielder,31,0,0,1082
+420,Netherlands,Nathan Aké,27,Bournemouth,Player,Defender,38,4,0,1702
+421,England,Nathan Holland,24,West Ham,Player,Midfielder,0,0,0,0
+422,England,Nathan Redmond,28,Southampton,Player,Midfielder,38,6,4,1643
+423,England,Nathaniel Chalobah,27,Watford,Player,Midfielder,9,0,0,199
+424,England,Nathaniel Clyne,31,Bournemouth,Player,Defender,18,0,1,570
+425,England,Nathaniel Mendez-Laing,30,Cardiff ,Player,Midfielder,20,4,1,542
+426,Congo DR,Neeskens Kebano,30,Fulham,Player,Midfielder,7,0,0,29
+427,Philippines,Neil Leonard Dula Etheridge,32,Cardiff ,Player,Goalkeeper,38,0,0,1710
+428,Serbia,Nemanja Matić,34,Man United,Player,Midfielder,28,1,0,1390
+429,Argentina,Nicolas Otamendi,34,Man City,Player,Defender,18,0,0,551
+430,England,Nikola Tavares,23,Crystal Palace,Player,Defender,0,0,0,0
+431,England,Nnamdi Ofoborh,22,Bournemouth,Player,Midfielder,0,0,0,0
+432,Ukraine,Oleksandr Zinchenko,25,Man City,Player,Midfielder,14,0,3,540
+433,England,Oliver Skipp,22,Tottenham,Player,Midfielder,8,0,0,25
+434,France,Olivier Giroud,36,Chelsea,Player,Forward,27,2,4,386
+435,Spain,Oriol Romeu,31,Southampton,Player,Midfielder,31,1,0,1030
+436,Senegal,Oumar Niasse,32,Cardiff ,Player,Forward,18,0,0,563
+437,Argentina,Pablo Zabaleta,37,West Ham,Player,Defender,26,0,1,876
+438,Senegal,Pape N'Diaye Souaré,32,Crystal Palace,Player,Defender,1,0,0,0
+439,Germany,Pascal Groß,31,Brighton,Player,Midfielder,25,3,3,885
+440,Netherlands,Patrick van Aanholt,32,Crystal Palace,Player,Defender,36,3,2,1495
+441,Wales,Paul Dummett,31,Newcastle ,Player,Defender,26,0,0,1007
+442,France,Paul Pogba,29,Man United,Player,Midfielder,35,13,9,1494
+443,Argentina,Paulo Gazzaniga,30,Tottenham,Player,Goalkeeper,3,0,0,270
+444,Equatorial Guinea,Pedro Obiang,30,West Ham,Player,Midfielder,24,0,1,512
+445,Spain,Pedro Rodriguez,35,Chelsea,Player,Midfielder,31,8,2,822
+446,England,Peter Crouch,41,Burnley,Player,Forward,6,0,0,30
+447,Czech Republic,Petr Čech,40,Arsenal,Player,Goalkeeper,7,0,0,270
+448,Scotland,Phil Bardsley,37,Burnley,Player,Defender,19,0,0,772
+449,England,Phil Foden,22,Man City,Player,Midfielder,13,1,0,48
+450,England,Phil Jagielka,40,Everton,Player,Defender,7,1,0,234
+451,England,Phil Jones,30,Man United,Player,Defender,18,0,1,611
+452,Denmark,Philip Billing,26,Huddersfield ,Player,Midfielder,27,2,0,1086
+453,Netherlands,Philippe Sandler,25,Man City,Player,Defender,0,0,0,0
+454,Gabon,Pierre-Emerick Aubameyang,33,Arsenal,Player,Forward,36,22,5,1313
+455,Denmark,Pierre-Emile Højbjerg,27,Southampton,Player,Midfielder,31,4,3,1348
+456,Algeria,Rachid Ghezzal,30,Leicester ,Player,Forward,19,1,0,283
+457,Portugal,Rafael Euclides Soares Camacho,22,Liverpool,Player,Midfielder,1,0,0,0
+458,England,Raheem Sterling,27,Man City,Player,Forward,34,17,10,1521
+459,Netherlands,Rajiv van La Parra,31,Huddersfield ,Player,Midfielder,5,0,0,239
+460,Egypt,Ramadan Sobhi,25,Huddersfield ,Player,Forward,4,0,0,45
+461,Mexico,Raúl Jiménez,31,Wolves,Player,Forward,38,13,7,1476
+462,England,Rhys Healey,27,Cardiff ,Player,Forward,3,0,0,32
+463,Portugal,Ricardo Pereira,29,Leicester ,Player,Defender,35,2,6,1599
+464,Brazil,Richarlison,25,Everton,Player,Forward,35,13,1,1396
+465,Algeria,Riyad Mahrez,31,Man City,Player,Midfielder,27,7,4,692
+466,England,Rob Holding,27,Arsenal,Player,Defender,10,0,0,306
+467,Republic of Ireland,Robbie Brady,30,Burnley,Player,Midfielder,16,0,1,325
+468,Brazil,Robert Kenedy Nunes do Nascimento,26,Newcastle ,Player,Midfielder,25,1,1,733
+469,Scotland,Robert Snodgrass,35,West Ham,Player,Midfielder,33,2,5,1114
+470,Brazil,Roberto Firmino,31,Liverpool,Player,Forward,34,12,6,1273
+471,Argentina,Roberto Pereyra,31,Watford,Player,Forward,33,6,1,1358
+472,Morocco,Romain Saïss,32,Wolves,Player,Midfielder,19,2,0,600
+473,Belgium,Romelu Lukaku,29,Man United,Player,Forward,32,12,0,1148
+474,Venezuela,Rondon,33,Newcastle ,Player,Forward,32,11,7,1266
+475,England,Ross Barkley,28,Chelsea,Player,Midfielder,27,3,5,809
+476,England,Ruben Loftus-Cheek,26,Chelsea,Player,Midfielder,24,6,2,476
+477,Portugal,Rúben Neves,25,Wolves,Player,Midfielder,35,4,3,1558
+478,Portugal,Ruben Vinagre,23,Wolves,Player,Defender,17,0,0,189
+479,Portugal,Rui Patrício,34,Wolves,Player,Goalkeeper,37,0,0,1710
+480,England,Ryan Bennett,32,Wolves,Player,Defender,34,1,0,1350
+481,England,Ryan Bertrand,33,Southampton,Player,Defender,24,1,0,990
+482,Scotland,Ryan Fraser,28,Bournemouth,Player,Midfielder,38,7,14,1568
+483,England,Ryan Fredericks,30,West Ham,Player,Midfielder,15,1,0,681
+484,England,Ryan Giles,22,Wolves,Player,Midfielder,0,0,0,0
+485,Netherlands,Ryan Guno Babel,35,Fulham,Player,Forward,16,5,3,592
+486,England,Ryan Schofield,22,Huddersfield ,Player,Goalkeeper,0,0,0,0
+487,England,Ryan Sessegnon,22,Fulham,Player,Defender,35,2,6,1203
+488,Senegal,Sadio Man�,30,Liverpool,Player,Forward,36,22,1,1443
+489,England,Sam Gallagher,27,Southampton,Player,Forward,4,0,0,23
+490,England,Sam Surridge,24,Bournemouth,Player,Forward,2,0,0,11
+491,Wales,Sam Vokes,33,Burnley,Player,Forward,20,3,0,458
+492,England,Sam Woods,24,Crystal Palace,Player,Defender,0,0,0,0
+493,France,Samir Nasri,35,West Ham,Player,Midfielder,5,0,2,144
+494,Spain,Sandro Ramirez,27,Everton,Player,Forward,0,0,0,0
+495,England,Scott Dann,35,Crystal Palace,Player,Defender,10,0,1,300
+496,England,Scott McTominay,25,Man United,Player,Midfielder,16,2,0,516
+497,Bosnia and Herzegovina,Sead Kolašinac,29,Arsenal,Player,Defender,24,0,5,764
+498,Republic of Ireland,Séamus Coleman,34,Everton,Player,Defender,29,2,2,1227
+499,England,Sean Longstaff,25,Newcastle ,Player,Midfielder,9,1,0,333
+500,England,Sean Morrison,31,Cardiff ,Player,Defender,34,1,3,1440
+501,Austria,Sebastian Prödl,35,Watford,Player,Defender,1,0,0,13
+502,Ivory Coast,Serge Aurier,29,Tottenham,Player,Defender,8,0,2,428
+503,Argentina,Sergio Aguero,34,Man City,Player,Forward,33,21,8,1355
+504,Spain,Sergio Rico,29,Fulham,Player,Goalkeeper,29,0,0,1260
+505,Argentina,Sergio Romero,35,Man United,Player,Goalkeeper,0,0,0,0
+506,Republic of Ireland,Shane Duffy,30,Brighton,Player,Defender,35,5,1,1530
+507,Republic of Ireland,Shane Long,35,Southampton,Player,Forward,26,5,1,640
+508,Japan,Shinji Okazaki,36,Leicester ,Player,Forward,21,0,1,143
+509,Germany,Shkodran Mustafi,30,Arsenal,Player,Defender,31,2,0,1354
+510,England,Simon Francis,37,Bournemouth,Player,Defender,17,0,2,551
+511,Belgium,Simon Mignolet,34,Liverpool,Player,Goalkeeper,0,0,0,0
+512,Greece,Sokratis Papastathopoulos,34,Arsenal,Player,Defender,25,1,2,1080
+513,England,Solly March,28,Brighton,Player,Midfielder,35,1,5,1320
+514,Ivory Coast,Souleymane Bamba,37,Cardiff ,Player,Defender,28,4,1,1215
+515,Norway,Stefan Marius Johansen,31,Fulham,Player,Midfielder,12,0,0,282
+516,Italy,Stefano Okaka,33,Watford,Player,Forward,2,0,0,13
+517,Switzerland,Stephan Lichtsteiner,38,Arsenal,Player,Defender,14,0,0,532
+518,Republic of Ireland,Stephen Ward,37,Burnley,Player,Defender,3,0,0,156
+519,England,Steve Cook,31,Bournemouth,Player,Defender,31,1,1,1437
+520,Benin,Steve Mounié,28,Huddersfield ,Player,Forward,31,2,3,768
+521,Northern Ireland,Steven Davis,37,Southampton,Player,Midfielder,3,0,1,90
+522,Belgium,Steven Defour,34,Burnley,Player,Midfielder,6,0,0,280
+523,Scotland,Stuart Armstrong,30,Southampton,Player,Midfielder,29,3,2,963
+524,England,Sullay Kaikai,27,Crystal Palace,Player,Midfielder,0,0,0,0
+525,Netherlands,Tahith Chong,22,Man United,Player,Forward,2,0,0,36
+526,Netherlands,Terence Kongolo,28,Huddersfield ,Player,Defender,32,1,1,1317
+527,England,Theo Walcott,33,Everton,Player,Forward,37,5,2,1008
+528,USA,Tim Ream,35,Fulham,Player,Defender,26,0,0,1108
+529,England,Timothy Eyoma,22,Tottenham,Player,Defender,0,0,0,0
+530,Netherlands,Timothy Fosu-Mensah,24,Fulham,Player,Defender,12,0,0,296
+531,Belgium,Toby Alderweireld,33,Tottenham,Player,Defender,34,0,0,1375
+532,Scotland,Tom Cairney,31,Fulham,Player,Midfielder,31,1,1,1091
+533,England,Tom Cleverley,33,Watford,Player,Midfielder,13,1,0,368
+534,England,Tom Davies,24,Everton,Player,Midfielder,16,0,0,455
+535,England,Tom Heaton,36,Burnley,Player,Goalkeeper,19,0,0,810
+536,England,Tom Smith,30,Huddersfield ,Player,Defender,15,0,0,710
+537,England,Trent Alexander-Arnold,24,Liverpool,Player,Defender,29,1,12,1201
+538,England,Troy Deeney,34,Watford,Player,Forward,32,9,5,1250
+539,England,Tyias Browning,28,Everton,Player,Defender,0,0,0,0
+540,England,Tyreke Johnson,24,Southampton,Player,Defender,1,0,0,0
+541,England,Tyrone Mings,29,Bournemouth,Player,Defender,5,0,0,134
+542,Spain,Vicente Guaita,35,Crystal Palace,Player,Goalkeeper,20,0,0,720
+543,Spain,Vicente Iborra De La Fuente,34,Leicester ,Player,Midfielder,8,0,0,74
+544,Spain,Víctor Camarasa,28,Cardiff ,Player,Midfielder,32,5,4,1312
+545,Sweden,Victor Lindelöf,28,Man United,Player,Defender,30,1,1,1490
+546,Nigeria,Victor Moses,31,Chelsea,Player,Midfielder,2,0,0,9
+547,Kenya,Victor Wanyama,31,Tottenham,Player,Midfielder,13,1,0,207
+548,Sweden,Viktor Gyökeres,24,Brighton,Player,Forward,0,0,0,0
+549,Netherlands,Vincent Janssen,28,Tottenham,Player,Forward,3,0,0,0
+550,Belgium,Vincent Kompany,36,Man City,Player,Defender,17,1,0,662
+551,Netherlands,Virgil van Dijk,31,Liverpool,Player,Defender,38,4,2,1710
+552,Wales,Wayne Hennessey,35,Crystal Palace,Player,Goalkeeper,18,0,0,900
+553,Jamaica,Wes Morgan,38,Leicester ,Player,Defender,22,3,0,1143
+554,Netherlands,Wesley Hoedt,28,Southampton,Player,Defender,13,0,0,630
+555,Nigeria,Wilfred Ndidi,25,Leicester ,Player,Midfielder,38,2,0,1675
+556,Ivory Coast,Wilfried Zaha,29,Crystal Palace,Player,Midfielder,34,10,5,1694
+557,England,Will Hughes,27,Watford,Player,Midfielder,32,2,4,1185
+558,England,Will Norris,29,Wolves,Player,Goalkeeper,1,0,0,0
+559,Brazil,Willian,34,Chelsea,Player,Forward,32,3,6,1275
+560,France,Willy Boly,31,Wolves,Player,Defender,36,4,0,1639
+561,Argentina,Willy Caballero,41,Chelsea,Player,Goalkeeper,2,0,0,90
+562,Switzerland,Xherdan Shaqiri,31,Liverpool,Player,Midfielder,24,6,3,520
+563,France,Yan Valery,23,Southampton,Player,Defender,23,2,1,645
+564,Colombia,Yerry Mina,28,Everton,Player,Defender,13,1,0,530
+565,Japan,Yoshinori Muto,30,Newcastle ,Player,Forward,17,1,0,336
+566,Belgium,Youri Tielemans,25,Leicester ,Player,Midfielder,13,3,4,517
+567,Mali,Yves Bissouma,26,Brighton,Player,Midfielder,28,0,0,1022
+568,England,Zechariah Medley,22,Arsenal,Player,Defender,0,0,0,0
+569,England,Zeze  Steven Sessegnon,22,Fulham,Player,Defender,0,0,0,0
+570,Poland,Łukasz Fabiański,37,West Ham,Player,Goalkeeper,38,0,0,1710
+571,Spain,Unai Emery,47,Arsenal,Head Coach,,,,,
+572,England,Eddie Howe,41,Bournemouth,Head Coach,,,,,
+573,Republic of Ireland,Chris Hughton,60,Brighton,Head Coach,,,,,
+574,England,Sean Dyche,48,Burnley,Head Coach,,,,,
+575,England,Neil Warnock,70,Cardiff ,Head Coach,,,,,
+576,Italy,Maurizio Sarri,60,Chelsea,Head Coach,,,,,
+577,England,Roy Hodgson,71,Crystal Palace,Head Coach,,,,,
+578,Portugal,Marco Silva,41,Everton,Head Coach,,,,,
+579,England,Scott Parker,38,Fulham,Head Coach,,,,,
+580,Germany,Jan Siewert,36,Huddersfield ,Head Coach,,,,,
+581,England,�Brendan Rodgers,46,Leicester ,Head Coach,,,,,
+582,Germany,J�rgen Klopp,52,Liverpool,Head Coach,,,,,
+583,Spain,Pep Guardiola,48,Man City,Head Coach,,,,,
+584,Norway,Ole Gunnar Solskj�r,46,Man United,Head Coach,,,,,
+585,Spain,Rafael Ben�tez,59,Newcastle ,Head Coach,,,,,
+586,Austria,�Ralph Hasenh�ttl,51,Southampton,Head Coach,,,,,
+587,Argentina,Mauricio Pochettino,47,Tottenham,Head Coach,,,,,
+588,Spain,Javi Gracia,49,Watford,Head Coach,,,,,
+589,Chile,Manuel Pellegrini,65,West Ham,Head Coach,,,,,
+590,Portugal,Nuno Esp�rito Santo,45,Wolves,Head Coach,,,,,

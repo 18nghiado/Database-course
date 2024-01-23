@@ -1,0 +1,401 @@
+city,Population,Number of Premier league team
+London,7556900,6
+Liverpool,864122,2
+Manchester,395515,2
+Leicester,508916,1
+Cardiff,447287,1
+Wolverhampton,252791,1
+Southampton,246201,1
+Newcastle ,192382,1
+Bournemouth,163600,1
+Burnley,149422,1
+Huddersfield,149017,1
+Brighton,139001,1
+Watford,125707,1
+Birmingham,984333,0
+Nottingham,729977,0
+Sheffield,685368,0
+Bristol,617280,0
+Glasgow,591620,0
+Edinburgh,464990,0
+Leeds,455123,0
+Stoke-on-Trent,372775,0
+Coventry,359262,0
+Sunderland,335415,0
+Birkenhead,325264,0
+Islington,319143,0
+Reading,318014,0
+Kingston upon Hull,314018,0
+Preston,313332,0
+Newport,306844,0
+Swansea,300352,0
+Bradford,299310,0
+Southend-on-Sea,295310,0
+Belfast,274770,0
+Derby,270468,0
+Plymouth,260203,0
+Luton,258018,0
+City of Westminster,247614,0
+Blackpool,239409,0
+Milton Keynes,229941,0
+Bexley,228000,0
+Northampton,215963,0
+Archway,215667,0
+Norwich,213166,0
+Dudley,199059,0
+Aberdeen,196670,0
+Portsmouth,194150,0
+Sutton,187600,0
+Swindon,185609,0
+Crawley,180508,0
+Ipswich,178835,0
+Wigan,175405,0
+Croydon,173314,0
+Walsall,172141,0
+Mansfield,171958,0
+Oxford,171380,0
+Warrington,165456,0
+Slough,163777,0
+Peterborough,163379,0
+Cambridge,158434,0
+Doncaster,158141,0
+York,153717,0
+Poole,150092,0
+Gloucester,150053,0
+Telford,147980,0
+Dundee,147710,0
+Blackburn,146521,0
+Basildon,144859,0
+Middlesbrough,142707,0
+Bolton,141331,0
+Stockport,139052,0
+West Bromwich,135618,0
+Grimsby,134160,0
+Hastings,133422,0
+High Wycombe,133204,0
+Saint Peters,125370,0
+Burton upon Trent,122199,0
+Colchester,121859,0
+Eastbourne,118219,0
+Exeter,117763,0
+Rotherham,117618,0
+Cheltenham,116447,0
+Lincoln,114879,0
+Chesterfield,113057,0
+Chelmsford,111511,0
+Mendip,110000,0
+Dagenham,108368,0
+Basingstoke,107642,0
+Maidstone,107627,0
+Sutton Coldfield,107030,0
+Bedford,106940,0
+Oldham,104782,0
+Enfield Town,103970,0
+Woking,103932,0
+St Helens,102555,0
+Worcester,101659,0
+Gillingham,101187,0
+Becontree,100000,0
+Worthing,99110,0
+Rochdale,97550,0
+Solihull,96267,0
+Royal Leamington Spa,95172,0
+Romford,95000,0
+Bath,94782,0
+Harlow,94365,0
+Nuneaton,92698,0
+High Peak,92600,0
+Darlington,92363,0
+Southport,91703,0
+Chester,90524,0
+Stevenage,90232,0
+Wembley,90045,0
+Grays,89755,0
+Harrogate,89060,0
+Hartlepool,88855,0
+Londonderry County Borough,87153,0
+Cannock,86121,0
+Hemel Hempstead,85629,0
+St Albans,84561,0
+South Shields,83655,0
+Derry,83652,0
+Weston-super-Mare,82903,0
+Halifax,82624,0
+Redditch,82253,0
+Beckenham,82000,0
+Tamworth,81964,0
+Scunthorpe,79977,0
+Stockton-on-Tees,79957,0
+Wakefield,78978,0
+Carlisle,78470,0
+Gateshead,77649,0
+Lisburn,77506,0
+Fylde,76500,0
+Paisley,76220,0
+Bracknell,76103,0
+Newcastle under Lyme,75794,0
+Battersea,75651,0
+Crewe,75556,0
+Chatham,75509,0
+Hove,75174,0
+Aylesbury,74748,0
+East Kilbride,74740,0
+Canary Wharf,73390,0
+Rugby,73150,0
+Salford,72750,0
+Purley,72000,0
+Guildford,71873,0
+Shrewsbury,71715,0
+Peckham,71552,0
+Barnsley,71447,0
+Lowestoft,70945,0
+Gosport,70793,0
+Southall,70000,0
+Stafford,69217,0
+Royal Tunbridge Wells,68910,0
+Ellesmere Port,67768,0
+Rossendale,67400,0
+Folkestone,66429,0
+Brixton,66300,0
+Wrexham,65692,0
+Torquay,65388,0
+Maidenhead,64831,0
+Kingswood,64793,0
+Taunton,64621,0
+Waterlooville,64350,0
+Macclesfield,63954,0
+Bognor Regis,63885,0
+Newtownabbey,63860,0
+Kettering,63675,0
+Buckley,63576,0
+Great Yarmouth,63434,0
+Runcorn,62872,0
+Ashford,62787,0
+Tonypandy,62545,0
+Scarborough,61749,0
+Widnes,61464,0
+Aldershot,61339,0
+Bury,61044,0
+Barking,61000,0
+Castleford,60509,0
+Hereford,60415,0
+Bangor,60385,0
+Stroud,60155,0
+Margate,60134,0
+Chelsea,60000,0
+Loughborough,59932,0
+Welwyn Garden City,59910,0
+Farnborough,59902,0
+Rhondda,59450,0
+Craigavon,59236,0
+Wallasey,58794,0
+Littlehampton,58714,0
+Bridgend,58380,0
+Bootle,57791,0
+Weymouth,57691,0
+Fareham,57390,0
+Morley,57385,0
+Cheshunt,57374,0
+Kidderminster,57059,0
+Corby,56810,0
+Dartford,56694,0
+Castlereagh,56679,0
+Dewsbury,56640,0
+Livingston,56570,0
+Stourbridge,56284,0
+Sale,55689,0
+Halesowen,55265,0
+Canterbury,55240,0
+South Croydon,55198,0
+Huyton,54738,0
+Barry,54673,0
+Gravesend,54263,0
+Eastleigh,54225,0
+Acton,53689,0
+Washington,53526,0
+Braintree,53477,0
+Hamilton,53200,0
+Brentwood,52586,0
+Esher,52392,0
+Crosby,52140,0
+Reigate,52123,0
+Dunstable,51973,0
+Morecambe,51644,0
+Cumbernauld,51610,0
+Redhill,51559,0
+Horsham,51472,0
+Staines,51040,0
+Batley,50807,0
+Wellingborough,50577,0
+Clacton-on-Sea,50548,0
+Dunfermline,50380,0
+Bletchley,50193,0
+Keighley,50171,0
+Hayes,50000,0
+Paignton,49886,0
+Llanelli,49591,0
+Kirkcaldy,49460,0
+Bromsgrove,49117,0
+Sittingbourne,48948,0
+South Benfleet,48824,0
+Banbury,48651,0
+West Bridgford,48314,0
+Mitcham,48311,0
+Morden,48233,0
+Cwmbran,48157,0
+Long Eaton,47898,0
+Durham,47785,0
+Northwich,47421,0
+Ayr,47190,0
+Perth,47180,0
+Lancaster,47162,0
+Tipton,47000,0
+Inverness,46870,0
+Kilmarnock,46350,0
+Banstead,46280,0
+Neath,46126,0
+King's Lynn,46093,0
+Winchester,46074,0
+Barrow in Furness,45865,0
+Yeovil,45784,0
+Middleton,45589,0
+Havant,45574,0
+Carshalton,45525,0
+Hinckley,45249,0
+Salisbury,44748,0
+Pontefract,44710,0
+Coatbridge,43970,0
+Sutton in Ashfield,43912,0
+Grantham,43833,0
+Merthyr Tydfil,43820,0
+Great Sankey,43793,0
+Greenock,43690,0
+Ashton-under-Lyne,43675,0
+Leigh,43626,0
+Leatherhead,43544,0
+Letchworth Garden City,43529,0
+Newark on Trent,43363,0
+Worksop,43252,0
+Bury St Edmunds,42812,0
+Kirkby,42744,0
+Wallsend,42739,0
+Redruth,42690,0
+Welling,42500,0
+Christchurch,42396,0
+Andover,42276,0
+Stretford,41953,0
+Dover,41709,0
+Hatfield,41677,0
+Altrincham,41548,0
+Coity,41352,0
+Newburn,41347,0
+Boston,41340,0
+Holloway,41329,0
+Lytham St Annes,41327,0
+Bridgwater,41276,0
+Urmston,41198,0
+Wokingham,41143,0
+Swadlincote,40960,0
+Trowbridge,40952,0
+Prescot,40889,0
+Bexhill-on-Sea,40478,0
+Bloxwich,40000,0
+Ewell,39994,0
+North Shields,39747,0
+Glenrothes,39100,0
+Skelmersdale,38944,0
+Fleet,38726,0
+Abingdon,38676,0
+Tonbridge,38657,0
+Ramsgate,38624,0
+Ilkeston,38587,0
+Coalville,38245,0
+Canvey Island,38170,0
+Surbiton,38158,0
+Whitley Bay,38055,0
+Greenford,38000,0
+Arnold,37873,0
+Houghton-Le-Spring,37840,0
+Bishops Stortford,37838,0
+Leyland,37614,0
+Rushden,37584,0
+Leighton Buzzard,37469,0
+Yeadon,37379,0
+Blyth,37339,0
+Eccles,37275,0
+Redcar,37203,0
+Airdrie,37130,0
+Peterlee,37015,0
+Farnham,36971,0
+Chester-le-Street,36917,0
+Great Malvern,36770,0
+Herne Bay,36642,0
+Wilmslow,36617,0
+Newton Abbot,36474,0
+Stirling,36440,0
+Mangotsfield,36427,0
+Billericay,36338,0
+Chipping Sodbury,36108,0
+Hitchin,36099,0
+Walkden,35937,0
+Tyldesley,35932,0
+Chippenham,35800,0
+Billingham,35708,0
+Pontypool,35686,0
+Accrington,35318,0
+Falkirk,35310,0
+Briton Ferry,35179,0
+Hoddesdon,35174,0
+Bridlington,35154,0
+Bentley,34821,0
+Exmouth,34432,0
+Yate,34406,0
+Felling,34355,0
+Colwyn Bay,34284,0
+Radcliffe,34239,0
+Totton,34169,0
+Letchworth,33955,0
+Chorley,33888,0
+Bicester,33846,0
+Haywards Heath,33845,0
+Irvine,33740,0
+Wigston Magna,33720,0
+Wednesfield,33555,0
+Strood,33381,0
+Windsor,33348,0
+Dumfries,33280,0
+Glossop,33243,0
+Cramlington,33180,0
+Pudsey,33109,0
+Ebbw Vale,33068,0
+Newbury,33065,0
+Wickford,32975,0
+Lichfield,32877,0
+Brighouse,32872,0
+Darwen,32566,0
+Wisbech,32489,0
+Aston,32286,0
+Borehamwood,32176,0
+Prestwich,32125,0
+Motherwell,32120,0
+Cleethorpes,32017,0
+Lower Earley,32000,0
+Shirley,32000,0
+Deeside,32000,0
+Falmouth,31988,0
+Hyde,31926,0
+Chichester,31654,0
+Barnstaple,31616,0
+Spalding,31588,0
+Rutherglen,31180,0
+Thornton-Cleveleys,31157,0
+Aberdare,31135,0
+Caerphilly,31060,0
+Ruislip,31000,0
+Saint Neots,30811,0
+Burgess Hill,30635,0
+Beverley,30587,0
+Deal,30555,0
+Wishaw,30510,0
+Pontypridd,30420,0
+Winsford,30259,0
